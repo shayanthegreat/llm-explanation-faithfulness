@@ -1,0 +1,11 @@
+{
+  "label_counts": {
+    "contradiction": 349,
+    "entailment": 337,
+    "neutral": 314
+  },
+  "n": 1000,
+  "seed": 1729,
+  "sha256": "fe1ea5b0441486adfc486573e027474ccf2a4d5b73c1045c4bbcbba09e3b96c8",
+  "source": "https://raw.githubusercontent.com/OanaMariaCamburu/e-SNLI/master/dataset/esnli_test.csv"
+}

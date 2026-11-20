@@ -1,0 +1,1001 @@
+dataset_split,source_id,premise,hypothesis,gold_label
+test,1011572216.jpg#1r1n,A beautiful bride walking on a sidewalk with her new husband.,Newlyweds walk down the sidewalk from the church.,neutral
+test,1034985636.jpg#3r1c,A man playing an electric guitar on stage.,A man playing banjo on the floor.,contradiction
+test,1067675215.jpg#2r1n,A man laying down in middle of street during heavy traffic.,The traffic made a guy fall asleep.,neutral
+test,109380144.jpg#3r1n,A girl playfully kicks a guy in the face while another person makes faces.,A girl is playing wrestling with a friend.,neutral
+test,109741554.jpg#2r1c,A man shoveling snow off the roof of a building.,A young woman working in the snow.,contradiction
+test,109741554.jpg#2r1e,A man shoveling snow off the roof of a building.,A man working in the snow.,entailment
+test,1131155939.jpg#4r1n,A dog is running in the waves at the beach.,The dog is fetching his toy that his master threw into the surf.,neutral
+test,118647903.jpg#3r1c,Two male soccer players on opposing teams are trying to get the soccer ball.,Two women compete in a tennis match.,contradiction
+test,128395625.jpg#4r1e,Two people are riding bicycles next to a building.,Two people are riding bikes near a building.,entailment
+test,1290285741.jpg#1r1c,Three young women perform a dance in a crowded hall.,Three young woman are sleeping in a crowded hall.,contradiction
+test,1297871927.jpg#2r1c,Sexy young men stand on a balcony having a heated conversation.,The young men are in complete agreement.,contradiction
+test,1316458112.jpg#2r1e,A man in a dark jacket stands next to a man dressed in brown reaching down into a bag.,"Two men in dark clothing, one is reaching into a bag.",entailment
+test,1327485320.jpg#4r1e,A woman in a white apron prepares various meats on a large grill.,A woman is preparing meat.,entailment
+test,133087820.jpg#0r1e,A man is reading a book while sitting on a bench outside of a bookstore.,A man is reading on a bench outside of a store.,entailment
+test,1336391319.jpg#2r1e,A man pushing a hand-truck of boxes is bending over to pick up a pear.,A man is pushing a hand truck.,entailment
+test,134857559.jpg#1r1n,A band singing and playing electric guitar for a crowd of people.,A band is playing a cover song.,neutral
+test,13652901.jpg#1r1c,Two construction workers talk while looking at a Naval ship.,The workers are mute.,contradiction
+test,136644343.jpg#0r1n,Young boy smiles at the camera from the tire swing.,He is barefoot.,neutral
+test,1384292980.jpg#1r1n,The girls walk down the street.,Girls were going to the park.,neutral
+test,1402489103.jpg#2r1e,A group of women observing an event while one in military attire takes a photograph,A group of people are watching something and one takes a picture.,entailment
+test,1420060118.jpg#3r1c,A child in a ninja outfit does a jumping kick.,a child is wrestling with bears,contradiction
+test,1424237335.jpg#4r1c,"Two little girls, wearing pink hanging on a tube.",Two girls wearing blue sit on a couch.,contradiction
+test,1424237335.jpg#4r1n,"Two little girls, wearing pink hanging on a tube.",Two girls playing on a tube.,entailment
+test,142802798.jpg#1r1n,A boy in a green shirt on a skateboard on a stone wall with graffiti,A long-haired boy riding his skateboard at a fast pace over a stone wall with graffiti.,neutral
+test,1434607942.jpg#0r1n,A small child in a red jacket is sitting on a man's shoulders and holding his head.,Th small child is watching a performance.,neutral
+test,1436760519.jpg#4r1c,The two dogs are playing catch with a red Frisbee.,Two dogs sleep in a dog bed.,contradiction
+test,144844274.jpg#1r1c,A woman swings on a rope overlooking a red farmhouse and gated pastures and tall trees.,the woman cooked a apple pie,contradiction
+test,1457898867.jpg#4r1c,A boy is riding down the road between two cows.,A single cow is alone.,contradiction
+test,1486399999.jpg#0r1c,A man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence.,Nobody is working.,contradiction
+test,1500853305.jpg#0r1n,A little girl has her arms around a little boy standing on a wooden bridge in the woods.,The little girl is consoling the boy.,neutral
+test,1500853305.jpg#3r1n,A girl and a boy hugging on a bridge,Boyfriend and girlfriend hugging each other.,neutral
+test,151155158.jpg#1r1c,A young couple and many others out enjoying themselves at an outdoor street event.,No one has attended the outdoor street event.,contradiction
+test,154789578.jpg#3r1e,A black scientist looks through a scope examining a biological specimen's blood cells.,he looks through the microscope,entailment
+test,161975684.jpg#3r1e,A choir practicing in a church.,A group of singers sings.,entailment
+test,1629595358.jpg#1r1c,A woman on stage holding a microphone standing by a man.,Two people are lying on a couch,contradiction
+test,1629595358.jpg#1r1e,A woman on stage holding a microphone standing by a man.,Two people are on a stage,entailment
+test,1680409989.jpg#0r1e,A person with a purple shirt is painting an image of a woman on a white wall.,A woman paints a portrait of a person.,neutral
+test,178249309.jpg#3r1n,A man is throwing something into the road.,A man throws salt on a snowy road.,neutral
+test,180506881.jpg#2r1e,"Two guys walking, one carrying a skateboard",Both of the men are walking.,entailment
+test,18056405.jpg#4r1c,"Man sitting on a bench, reading a book.",A man is going for a run.,contradiction
+test,18056405.jpg#4r1n,"Man sitting on a bench, reading a book.",A man is doing something outside.,neutral
+test,1814086703.jpg#3r1c,Two dogs run together near the leaves.,The two dogs are sleeping on the pile of leaves.,contradiction
+test,185075930.jpg#4r1c,A child buried in the sand.,The child is swimming at the pool.,contradiction
+test,1858963639.jpg#3r1e,A woman wearing a red helmet is holding a rope and smiling.,A happy woman is holding rope.,entailment
+test,1891462514.jpg#2r1c,A woman in a white hijab digs into the ground.,the pigs eat dogs,contradiction
+test,1910013808.jpg#0r1c,"A Lady in a Green and Black Jacket, and Blue pants, taking a Photos of a Horse.",A naked lady takes photos of a horse.,contradiction
+test,1936972115.jpg#3r1c,A man laughing while at a restaurant.,A man crying while at a restaurant.,contradiction
+test,19469520.jpg#1r1n,A group of cyclists at a race with their arms around each other.,They are going fast.,neutral
+test,1947351225.jpg#1r1c,There is a group of children getting their picture taken with presents.,Two men carry a Christmas tree.,contradiction
+test,1957701886.jpg#4r1c,A woman is walking her dog and using her cellphone.,The woman is walking her cat.,contradiction
+test,1970275389.jpg#0r1c,A woman leans over a small fence to take a picture of a yellow flower.,The flower is blue,contradiction
+test,19810652.jpg#3r1c,A man and woman look upward on a city block.,A man and woman are scuba diving.,contradiction
+test,2015953389.jpg#4r1c,Workers standing on a lift.,Workers walk home from work,contradiction
+test,202174998.jpg#1r1c,A man wearing a white t-shirt and shorts is rock climbing with other people wearing blue hard hats.,A man in a black t-shirt and shorts is hiking up a mountain.,contradiction
+test,2033696343.jpg#0r1n,A bike is parked against a window to a store called Winter Sport where inside some people sit next to a computer and an older woman stands in the background.,A woman has left her bike outside a store while she goes inside.,neutral
+test,2043520315.jpg#3r1n,A group of three people and one dog hike up a green mountainside.,People are racing up a hill.,neutral
+test,2049646140.jpg#4r1e,A child doing gymnastics,A child is doing gymnastics.,entailment
+test,206051614.jpg#4r1c,A man is making a phone call.,A man is sleeping on a cot.,contradiction
+test,207216904.jpg#3r1e,Two children wearing hooded tops laughing with each other.,children laugh,entailment
+test,207225205.jpg#0r1c,An Asian woman dressed in a colorful outfit laughing.,The woman is not laughing.,entailment
+test,2074244690.jpg#2r1e,A group of people gathered at night watching an event.,A group of humans are looking at the same direction.,neutral
+test,207731022.jpg#1r1c,A canoe in the distance on a lake as seen from another canoe.,A canoe goes over a waterfall.,contradiction
+test,2079152458.jpg#1r1n,A brown and white dog holds a tennis ball in his mouth.,A dog is playing fetch with his owner.,neutral
+test,2086513494.jpg#0r1e,The woman in the white coat is holding a camera in her hand.,The person has a coat on.,entailment
+test,209605542.jpg#1r1e,a man with a red headband climbing a rock cliff looming over greenery.,A man is outdoors.,entailment
+test,209605542.jpg#1r1n,a man with a red headband climbing a rock cliff looming over greenery.,A man has on climbing gear.,neutral
+test,2096686198.jpg#0r1c,A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.,two men are at the pool.,contradiction
+test,2097697050.jpg#2r1n,A man and a child are laughing at each other.,A man and his daughter are making funny faces.,neutral
+test,2098777590.jpg#1r1n,An elderly woman is preparing food in the kitchen.,A person makes dinner.,neutral
+test,2098915312.jpg#1r1e,"An older man is kneeling and talking to a group of younger children, all in soccer uniforms.",a man talks to kids,entailment
+test,2100909581.jpg#3r1n,White dog playing in the snow.,The dog has cold paws from the snow.,neutral
+test,2101729860.jpg#2r1n,A man takes a drink in the doorway of a home.,A man is looking out onto his front lawn from the doorway of his home.,neutral
+test,2101755951.jpg#0r1e,Three Asian men are running down a track holding hands while a large gathering of people watches them.,Three men are holding hands.,entailment
+test,2102909744.jpg#2r1c,Children receiving places at an award ceremony.,The children are rolling on the floor collecting dust for science.,contradiction
+test,2102909744.jpg#2r1e,Children receiving places at an award ceremony.,An award ceremony is occurring.,entailment
+test,2103055320.jpg#2r1c,A man sits behind a decorated table inside a room with fabrics draped down the walls.,Man building a house out of stone.,contradiction
+test,2111360187.jpg#1r1n,Three children in bathing suits are playing in foam,three kids are taking a batch,neutral
+test,2112114341.jpg#2r1c,a man with beard sitting down playing an acoustic guitar.,The band sets up their instruments.,contradiction
+test,2112114341.jpg#2r1e,a man with beard sitting down playing an acoustic guitar.,A musician plays on his instrument.,entailment
+test,2115112541.jpg#3r1n,A group of people sitting around a table eating food.,People are at a table eating Christmas dinner.,neutral
+test,2127209046.jpg#1r1n,A group is walking between two giant rock formations.,A group is hiking.,neutral
+test,2129341575.jpg#0r1e,"A child wearing a brown coat, red hat and snow boots on top of a snow pile near a tree on the corner of a street intersection.",A person outside.,entailment
+test,213344147.jpg#4r1c,Two people talking on a dock.,women shopping at the mall,contradiction
+test,2140332319.jpg#1r1e,A woman is lying on her stomach on a white pillow and crying.,A woman is crying.,entailment
+test,214165084.jpg#0r1e,A woman in a pink top is holding a glass bottle in one hand and a Stitch doll in the other.,The top is pink,entailment
+test,2142631327.jpg#0r1c,A woman in red blouse is standing with small blond child in front of a small folding chalkboard.,a dog barks loud,contradiction
+test,2143439626.jpg#1r1c,"A little girl drawing with chalk, on a chalkboard.",A girl is baking a cake in her kitchen.,contradiction
+test,2146640888.jpg#3r1c,A man is watching as a woman is reading a piece of paper.,A woman watches as a man reads a paper.,contradiction
+test,2148680620.jpg#0r2n,A guy in glasses is biting into a pink marshmallow chick while somebody else is puckering their lips out wanting a bite.,"A man eats his last marshmallow as his friend begs for a bite, but he doesn't give in.",neutral
+test,2149434880.jpg#0r1n,"A person dressed in white and black winter clothing leaps a narrow, water-filled ditch from one frost-covered field to another, where a female dressed in black coat and pants awaits.",The female awaiting the man leaping is his sister.,neutral
+test,215797019.jpg#1r1c,An Asian man walks a three-wheeled pedal card fully of white bags.,An Asian man walks his dog on a rainy afternoon.,contradiction
+test,215978818.jpg#0r1c,Kids play in water coming up in streams out of a tiled floor with an image of a large rose on it.,Kids are playing basketball in a pond.,contradiction
+test,2168723623.jpg#0r1c,"A plane flies overhead as military men stand at attention, a flag blows in the wind as a lady in red stares out towards the camera.",An empty field is photographed.,contradiction
+test,2172570753.jpg#0r1e,A woman wearing glasses and a brown beanie next to a girl with long brown hair holding a book.,A woman is wearing glasses and a brown beanie.,entailment
+test,2173312932.jpg#0r1e,A brown dog is in the middle of a line of dogs chasing a dirty tennis ball over dirt.,The dogs are chasing a ball.,entailment
+test,2182050469.jpg#4r1c,"I am squatting on a dock, looking into a lake.",I am white water rafting.,contradiction
+test,2188192752.jpg#0r1e,A group of people look to the side and a boy starts to run.,The boy started running.,entailment
+test,2190006822.jpg#1r1c,"One man, shirtless, and a woman, clothed, jumping in the water.","Two people are in a helicopter, high above the Sahara desert.",contradiction
+test,2206282062.jpg#0r1n,"Female beach volleyball players on either side of a net, with one looking to spike the ball as her teammate watches with the blue sky in the background.",One player on the women's beach volleyball team jumps to spike the ball as her teammate looks on.,entailment
+test,2218519240.jpg#2r1e,A man is wearing protective hair and face coverings.,A person is covering their face and hair.,entailment
+test,221973402.jpg#3r1c,a black dog chases a boy wearing red and blue.,a dog chases his tail,contradiction
+test,2219959872.jpg#0r1c,A man in a red muscle shirt poses for a picture beside a stone building whilst other people pass by.,the man is at home sleeping,contradiction
+test,2226343167.jpg#0r1e,"A woman in skirt, torn stockings and combat boots and a man in aviators and batman tank top walk down a city street.",A man and woman walk down a city street.,entailment
+test,2231089996.jpg#1r1e,A man in a white shirt speaks into a microphone as other men gather behind him at a public event.,A man in a white shirt is making a speech in front of a crowd.,entailment
+test,223864886.jpg#4r1e,A woman getting her face painted for a parade.,the woman has make-up on her body,entailment
+test,2245918465.jpg#1r1e,A man of the cloth puts a black substance on a man's forehead.,The man puts something on the other mans head.,entailment
+test,2245918465.jpg#1r1n,A man of the cloth puts a black substance on a man's forehead.,The men are at church.,neutral
+test,2255753004.jpg#0r1c,Two girls stand in front of two men selling what appears to be concert merchandise while a woman holding a microphone interviews the men behind the merchandise counter.,people are at home sleeping,contradiction
+test,2256320794.jpg#1r1e,The collie is standing outdoors on a sandy area.,The collie is standing in the sand.,entailment
+test,2273038287.jpg#3r1c,Black dog running very fast.,A cat is running through a field.,contradiction
+test,22779038.jpg#0r1e,Two men wearing red jackets are looking out over some water and one man has yellow earphones on his ears.,Some men wearing jackets are looking out over the water and one has earphones in.,entailment
+test,2279416167.jpg#3r1e,A child making a sand castle on the beach.,A child on a beach.,entailment
+test,2282573692.jpg#3r1c,Two women are relaxing in a hot tub.,Two men are in the hot tub.,contradiction
+test,2285847538.jpg#3r1e,A older man working at a loom,An old man looming some threads.,entailment
+test,2286624900.jpg#3r1n,A family smiling on the couch.,A family is sitting on a couch watching TV.,neutral
+test,2307757311.jpg#1r1c,A group of girls jumping over another girl who is laying on the floor.,A gorup of girl is laying down.,contradiction
+test,2308256827.jpg#2r1e,The little boy is smiling as he crosses a rope on an assault course.,Kid are allowed to attempt the assault course.,entailment
+test,2308256827.jpg#2r1n,The little boy is smiling as he crosses a rope on an assault course.,Some people have gone to the woods for training.,neutral
+test,2313230479.jpg#2r1c,A brown dog and black and white dog run along the green grass.,Two squirrels run after acorns in the grass.,contradiction
+test,2314547049.jpg#0r1c,A woman smiles while she opens a red package in front of a table with yarn and glass of liquid on it.,The woman is yelling at the package.,contradiction
+test,2315335328.jpg#4r1n,A woman in a green flowered dress is holding a container of yarn animals.,A lady in a dress is trying to sell her yarn animals.,neutral
+test,2324963565.jpg#1r1n,A woman taking candy off of a shelf and putting it in a box.,A woman packages candy for a friend,neutral
+test,2328321679.jpg#1r1e,A woman with a blue hat is taking photos in an area covered in brush.,The woman is holding a camera.,entailment
+test,2330062180.jpg#0r1e,A golden dog bounds across the snow-covered hill.,A golden dog bounds across the snow-covered land form.,entailment
+test,2330062180.jpg#0r1n,A golden dog bounds across the snow-covered hill.,A golden animal bounds across the snow-covered plateau.,neutral
+test,2332986053.jpg#2r1c,A man with a blue helmet and orange shirt.,A woman has a helmet on a motorcycle.,contradiction
+test,2333643699.jpg#4r1e,Man is shaving in the mirror.,The man has a beard.,neutral
+test,2338798208.jpg#2r1n,Three women are smiling and making cupcakes.,Three women make cupcakes for a bake sale.,neutral
+test,2344898759.jpg#0r1c,A woman talks on a cellphone while sitting in front of blue railings that are in front of the ocean.,She throws her phone into the sea,contradiction
+test,2347823813.jpg#3r1n,A crowd watching a duo in blue dance on a stage.,A crowd is watching a talent show.,neutral
+test,2347921097.jpg#4r1c,The dogs are playing on the bed.,Two cats playing on the bed together.,contradiction
+test,2348557363.jpg#4r1c,This child is on the library steps.,The child is on the school steps.,contradiction
+test,2354064281.jpg#4r1n,Two dogs in a grassy field.,Two dogs are playing outside.,neutral
+test,2358554995.jpg#4r1e,Child getting ready to go down a slide.,The child is at the top of the slide.,entailment
+test,2363419943.jpg#3r1c,a woman and a child both wearing red outfits walking up a street,Two adults on a street,contradiction
+test,2363520556.jpg#3r1c,The Man is outside on the beach walking his dog.,The man and his dog are taking a boat ride.,contradiction
+test,2366421102.jpg#3r1c,a girl wearing pink pulls weeds.,She is indoors.,contradiction
+test,2371749487.jpg#3r1e,A boy pushing a girl on a toy SUV.,A boy and a girl are playing.,entailment
+test,237212706.jpg#4r1n,A man looking out of his window.,A man enjoys the sun coming through the window.,neutral
+test,2372820502.jpg#0r1e,A bunch of people are standing all together in a street with a building in the background.,A group of people are standing.,entailment
+test,2382950929.jpg#3r1e,A boy and a woman are on top of large rocks at sunset.,The surface of the earth is visible.,entailment
+test,2382950929.jpg#3r1n,A boy and a woman are on top of large rocks at sunset.,The faces of the people are visible,neutral
+test,2385744837.jpg#0r1c,A boy in a red jacket and balck hat sliding on his knees down a snowy hill,A man is playing in the snow.,contradiction
+test,2391442557.jpg#0r1e,"Woman wearing dark brown leather jacket, sunglasses, brown leather boots, silver designer handbag, sitting on a fire engine red park bench.",A nicely dressed woman is sitting in the park.,entailment
+test,2391509645.jpg#1r1c,Man with tattoo is lying down in the sand next to a cow.,The man is at home with his kids.,contradiction
+test,2393059551.jpg#0r1n,A man is standing inside a building under construction filled with bricks and various tools.,a contractor looks at the job,neutral
+test,2393298349.jpg#1r1n,"There are two kids, a soccer ball, a dog and a goat outside in a field.",The kids are playing soccer in the field with their dog.,neutral
+test,2394275528.jpg#0r1n,"A girl is swinging, rather high, on a swing with blue ropes with lots of trees in the background.","A girl is swinging, rather high, on a swing with light blue ropes.",neutral
+test,2401201668.jpg#2r1c,A shoeshine man works as others pass by on a busy sidewalk.,A man is working at a car wash,contradiction
+test,2406062461.jpg#4r1n,A man in an orange hat holds a ball.,A man in an orange hat is getting ready to throw a ball.,neutral
+test,2407214681.jpg#2r1n,Two little boys wearing athletic jerseys are washing their hands in a public restroom.,They were playing soccer.,neutral
+test,2411585767.jpg#3r1e,A man in suit waiting for the green light.,A man waits at a red light.,entailment
+test,241346317.jpg#3r1c,A crowd is standing and cheering at a football game.,A woman takes a nap.,contradiction
+test,2416964653.jpg#3r1c,Two young girls looking very concerned.,They aren't paying attention to anything.,contradiction
+test,2425411995.jpg#2r1e,A woman in tennis clothes running to hit a ball with her tennis racket.,A woman plays tennis.,entailment
+test,2434440948.jpg#0r1c,"A man stands speaking to a crowd of sitting people, all wearing business attire.",A boy is riding a wave on his surfboard.,contradiction
+test,2445234281.jpg#2r1c,A woman wearing a tank top and black pants is laying on the ground while looking at a book.,A woman is standing and looking at a book.,contradiction
+test,2446783262.jpg#3r1c,A woman in her swimsuit is kicking a ball on the beach.,A woman lounging on the beach.,contradiction
+test,2446928343.jpg#0r1c,A woman in a black and white shirt is sitting in a chair with an animated expression on her face.,The woman is standing with her hand over her mouth.,contradiction
+test,2446928343.jpg#0r1e,A woman in a black and white shirt is sitting in a chair with an animated expression on her face.,A woman in a shirt is sitting in a chair with an animated expression on her face.,entailment
+test,2446928343.jpg#0r1n,A woman in a black and white shirt is sitting in a chair with an animated expression on her face.,A woman in a black and white shirt is sitting in a chair with her eyes wide open.,neutral
+test,2448741990.jpg#1r1e,A person dressed in black and red protective gear drives an ATV on a track.,There is a person driving.,entailment
+test,245307666.jpg#1r1c,A light technician man with tribal tattoos aiming a spotlight over a balcony.,An actress takes the stage.,contradiction
+test,2463991834.jpg#2r1n,Four men in the forest move a cannon down the path.,The men are preparing to siege a castle.,neutral
+test,2464311348.jpg#4r1c,Two men prepare a fish at a dock.,Two men are sitting in a canoe with their fishing poles,contradiction
+test,24666160.jpg#2r1n,"A dark-skinned person, crouched while painting a sign.",A black man is painting a protest sign.,neutral
+test,2475640704.jpg#0r1n,A boy at the beach runs through the surf towards three other people who are already in the water.,The boy is running through the surf towards his family that are swimming.,neutral
+test,2480333312.jpg#0r1c,"There are two boats full of people in a river, one is stopped and the other is moving.",The people are on land.,contradiction
+test,2480850054.jpg#2r1e,A dusty boy runs along a dirt path through the grass.,A boy is outside running.,entailment
+test,2487069642.jpg#1r1e,The flight attendant dressed in yellow demonstrates life vest usage.,A flight attendant is standing in front of passengers.,neutral
+test,2494088238.jpg#4r1n,Children on the beach with their dog.,The children are playing catch with their dog.,neutral
+test,2498093487.jpg#0r1c,"Boy in backpack crossing the street, Other people, all Asian, are all in crosswalk walking towards the boy.",The boy has no backpack on.,contradiction
+test,2504010674.jpg#0r1c,A man in a suit with gold buttons and a name tag gestures with his hands as he speaks to another man in a dress shirt who is holding a beverage in a glass.,A man in a suit with gold bricks and a name tag gestures with his hands,contradiction
+test,2513594933.jpg#2r1c,Many people have decided to take a rest on the steps.,The people are all running very fast in the Boston Marathon.,contradiction
+test,2525471610.jpg#2r1e,A young boy and an adult man looking at ducks in a pond.,People watch ducks in a pond.,entailment
+test,2527163162.jpg#1r1e,A boy dressed in a plaid kilt with a brown hat wields a long pole.,A boy has and object in his hands.,entailment
+test,2528552898.jpg#1r1n,A yellow race car sliding through a corner as spectators watch.,A Nascar is being watched.,neutral
+test,2533733805.jpg#0r1e,Three young Asian women walk on a rain soaked street with traffic in the background.,There is more than one woman in the group.,entailment
+test,2537603442.jpg#4r1n,A person crossing a bridge with train tracks.,There was a woman tip-toeing across the train tracks.,contradiction
+test,2538642969.jpg#2r1n,Many people on the beach holding a very large net.,The people are a part of a native tribe mending their fishing nets.,neutral
+test,2542163492.jpg#0r1c,The man is wearing an orange and black polo shirt and is kneeling with his lunch box in one hand while holding a banana in his other hand.,A man is wearing a green t shirt while holding a banana.,contradiction
+test,2545363449.jpg#3r1n,A girl in a yellow dress looks at a restaurant building.,A girl debates eating at a certain restaurant.,neutral
+test,2549203985.jpg#0r1e,People dresses in business clothing are walking by while one man with a tie on is standing still and talking on his cellular phone.,The people are dressed in business clothing.,entailment
+test,2550071408.jpg#1r1c,A blond woman sits on a park bench while wearing a brown tank top and olive green shorts.,A brunette woman sits on a sofa.,contradiction
+test,2557922709.jpg#1r1n,A young girl with glasses sits and holds two American flags.,A young girl celebrates the 4th of July by holding two flags.,neutral
+test,2561212119.jpg#2r1n,A wet black lab with a red collar is standing in the water.,A black lab waits for its owner to throw a ball into the water.,neutral
+test,2562377955.jpg#0r1c,"A boy in an orange 'Spring Hill' ball team uniform, pitching the ball.",A girl plays basketball.,contradiction
+test,2562377955.jpg#0r1e,"A boy in an orange 'Spring Hill' ball team uniform, pitching the ball.",A boy pitches the ball.,entailment
+test,2572817235.jpg#0r1c,"First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",Laura Bush is driving a jet-ski near the Washington monument.,contradiction
+test,2573830838.jpg#1r1n,A man in a blue shirt and a woman in a pink skirt sit around other people in the background.,There is a group of people at a music festival.,neutral
+test,2574683131.jpg#3r1c,A man in a blue jacket standing at a table with his back to the camera.,the child was 18 years old,contradiction
+test,2574683131.jpg#3r1n,A man in a blue jacket standing at a table with his back to the camera.,the boy was listening,contradiction
+test,2584412512.jpg#4r1n,Two dogs are playing together.,Two mutts are chasing each other.,neutral
+test,2586028627.jpg#4r1c,A child with a yellow shirt riding a yellow bike in a city.,A kid eating a pizza on a bench by his bike.,contradiction
+test,2591110592.jpg#0r1c,A child in a jeans jacket and shorts holding up a white dress as another darker-skinned child looks at it.,a dog eats his food,contradiction
+test,2592711202.jpg#3r1n,A girl in a blue dress takes off her shoes and eats blue cotton candy.,The girl is eating blue cotton candy at a carnival.,neutral
+test,2600170955.jpg#2r1n,An enthusiastic boy pushes a shopping cart containing a smiling boy.,Two boys are helping their parents shop,neutral
+test,2601454675.jpg#0r1n,A man wearing a brown shirt and backpack is pushing a stroller while a small toddler is walking along aside him on a rain-covered street.,The toddler is wearing rain boots.,neutral
+test,2611335633.jpg#2r1c,An older gentlemen in a hat and glasses holding a baby who is wrapped in a towel.,An older man is dancing at a club.,contradiction
+test,2617155996.jpg#0r1e,Two men are interacting with some sort of mechanical contraption that is mounted on a wall.,Some men work on a machine on a wall.,entailment
+test,2622986361.jpg#2r1e,A crowd of people looking up at 3 people on the edge of the roof of a building.,The crowd on the ground is watching 3 people on the roof's edge.,entailment
+test,2623575114.jpg#0r1n,Man with black shirt and sunglasses makes something out of a balloon.,A clown makes balloon animals.,neutral
+test,2624979508.jpg#4r1c,Artists install a new exhibit in a gallery.,Artists are watching the tv.,contradiction
+test,2629346153.jpg#2r1e,a brown and black attack dog being trained by a man holding a stick,A dog is being trained by a man.,entailment
+test,2641049916.jpg#2r1c,A kid with his face painted is at the top of a concrete structure with asterisks carved inside.,The kid is laying in a pool.,contradiction
+test,2641049916.jpg#2r1e,A kid with his face painted is at the top of a concrete structure with asterisks carved inside.,A kid has a painted face.,entailment
+test,2652155912.jpg#4r1c,A gas station and a car on fire.,A car is going through the car wash.,contradiction
+test,2652311904.jpg#1r1e,A busy street with numerous people interacting and going about their lives.,The street is alive with activity.,entailment
+test,2656039837.jpg#0r1n,A girl is about to hit a tennis ball coming from above her with a racket,A girl is playing tennis with three other people.,neutral
+test,2677109430.jpg#1r1c,This church choir sings to the masses as they sing joyous songs from the book at a church.,A choir singing at a baseball game.,contradiction
+test,2688848759.jpg#1r1c,Several people talk and drink beer while sitting around a picnic table.,Several enemies talk and drink beer around a table discussing peace treaties.,neutral
+test,2688848759.jpg#1r1e,Several people talk and drink beer while sitting around a picnic table.,People talking and drinking while sitting at a table outside.,entailment
+test,2689829779.jpg#1r1e,"Right leg in a brace, a young boy lies on the couch while using his cellphone.",The right leg is in a brace,entailment
+test,2689829779.jpg#1r1n,"Right leg in a brace, a young boy lies on the couch while using his cellphone.",The boy is not happy,neutral
+test,2691641332.jpg#4r1n,A young girl with her bike.,A girl is wiating for someone to take her bicycle.,neutral
+test,269444846.jpg#0r1c,A sign indicates 'Dangerous Shorebreak' on an overcast day while several people hang out on the beach.,The beach is out of water.,contradiction
+test,2700147489.jpg#3r1n,Man with beard doing skateboarding stunt,A man with a goatee does a backflip on a skateboard.,neutral
+test,2704362232.jpg#0r1e,a small brown and white dog swimming through the pool next to a man.,A man and a small multicolored dog are in the water.,entailment
+test,2705921240.jpg#1r1c,"A young man in jeans and a red shirt, wearing yellow gloves, holds a tree branch.",A man swims across a pool,contradiction
+test,2705925410.jpg#3r1n,A man in a brown shirt and blue shorts walking in Droney Park.,A man walking in Droney Park on his day off.,neutral
+test,2705947033.jpg#2r1e,Three children are shooting guns in the woods.,Three children are in a forested area.,entailment
+test,2706743557.jpg#1r1c,Two males and one female playing in a fountain of water.,There are three ladies playing in the fountain.,contradiction
+test,2729147877.jpg#1r1e,The child is hanging upside down with his legs over a pole.,The child is upside down.,entailment
+test,2730560023.jpg#0r1n,"At an outdoor event on a large table, several workers form an assembly line in which they prepare food, with many squeeze bottles and dispensers visible and a woman wearing plastic gloves in the foreground.",Workers preparing for a chili cook-off.,neutral
+test,2742426734.jpg#2r1e,A group of young people pose for a picture in a field,The young people are outdoors.,entailment
+test,2743046728.jpg#3r1n,These girls are having a great time looking for seashells.,The girls are outside.,entailment
+test,2744571595.jpg#3r1e,"Group of men standing in a meeting room, talking.",A group of men are talking to each other.,entailment
+test,2746839158.jpg#3r1c,Two young boys are playing in a fountain in a city plaza.,Kids are taking a bath.,contradiction
+test,2748929011.jpg#4r1e,A golfer shoots his ball out of a sand trap.,The game of golf being played.,entailment
+test,2749755023.jpg#4r1n,a woman in a black shirt looking at a bicycle.,A woman dressed in black shops for a bicycle.,neutral
+test,2758599631.jpg#0r1c,"While traveling, a woman in a black jacket is resting on the shoulder of a man in a black jacket.",A man rests on a womans shoulder,contradiction
+test,2759596272.jpg#1r1n,A young girl jumps off her swing in front of building.,girl plays in park,neutral
+test,2764732789.jpg#3r1c,A longeared dog running in the grass.,A dog is being groomed at a parlor.,contradiction
+test,2774501339.jpg#0r1e,A young man dressed up with a yellow tie jumps against a wall and one foot is left against the wall to push away.,The young man is jumping against a wall.,entailment
+test,2789350645.jpg#1r1c,A big black poodle running on the grass with a toy in its mouth.,A white dog stole a toy.,contradiction
+test,2800758232.jpg#3r1n,A man looking at a woman looking at water.,A woman watches the lake while her child swims.,neutral
+test,2806447.jpg#1r1e,"Indian musicians playing in the evening on a pillow, while life behind them continues.",Musicians are passionate about music.,neutral
+test,2806632713.jpg#4r1n,A person belted into a bungee-jumping ride in midair.,A person is thrown gleefully screaming into the air by a bungee-jumping ride,neutral
+test,2808870080.jpg#1r1c,A brown dog sniffing at the fence of a brown bull.,A cute dog was chasing the cat through they alley.,contradiction
+test,2811001948.jpg#3r1e,A man in a blue helmet is riding his motorcycle.,The man is driving.,entailment
+test,2819254573.jpg#0r1c,The blond boy is riding roller-coaster with his mouth wide open.,a woman is riding a roller-coaster,contradiction
+test,2821356536.jpg#4r1e,Two men roasting marshmallows in a fire pit.,Two men standing next to each other,entailment
+test,2823075967.jpg#3r1c,Two dogs either fighting or playing together.,The dogs are asleep on the sofa.,contradiction
+test,282741726.jpg#1r1n,"People seated at long tables all facing the same direction, some writing and some watching.",A family reunion is in progress as relatives sit at tables and write down each other's addresses.,neutral
+test,2830579786.jpg#0r1e,"A red Planet Hollywood bus carries many people including a man in an orange shirt and baseball cap, one woman wearing a purple shirt and another in a red shirt with her back to the camera.",There is a bus carrying a lot of people on it.,entailment
+test,2830579786.jpg#1r1n,Group of people including a man and a woman playing instruments on a double-decker red Planet Hollywood sightseeing bus.,A group of people on a bus are sightseeing.,entailment
+test,2833509990.jpg#2r1c,a mass of people looking and moving in the same general direction.,A few people walked in random directions.,contradiction
+test,283614756.jpg#0r1e,"A man with arms folded in front of his chest sitting next to at least one other person, laughing.",two people sit together,entailment
+test,2837734285.jpg#0r1c,A little boy in a blue shirt is putting some sunglasses up to a window while a lady watches him.,A girl puts on some sunglasses,contradiction
+test,2837734285.jpg#0r1e,A little boy in a blue shirt is putting some sunglasses up to a window while a lady watches him.,A boy puts on some sunglasses,entailment
+test,2843629756.jpg#0r1n,A man wearing shorts and a blue t-shirt is applying signage to the display window of an ice cream shop.,A man is putting a sign in the window to alert customers of an upcoming ice cream sale.,neutral
+test,2856564292.jpg#0r1c,A man in a blue shirt was arguing with a man in a green jacket and started to raise his fist in anger.,a man orders a mamosa for another man,contradiction
+test,2856564292.jpg#0r1e,A man in a blue shirt was arguing with a man in a green jacket and started to raise his fist in anger.,a man argues with another who is raising his fist,entailment
+test,2856564292.jpg#0r1n,A man in a blue shirt was arguing with a man in a green jacket and started to raise his fist in anger.,a man argues with another who is making threatening jeastures,entailment
+test,2856564292.jpg#1r1c,A middle-aged man in a green jacket is talking to another middle-aged man in a light blue tee-shirt.,Boxing match between two star fighters.,contradiction
+test,2858408189.jpg#0r1n,"A woman with a white blanket over her head is holding a baby wrapped in a blue, pink, and yellow blanket.",The baby had dark hair.,neutral
+test,2858408189.jpg#3r1c,A woman poses for a picture with a child.,A woman and child climb a tree.,contradiction
+test,2858903676.jpg#1r1c,One woman taking a picture of a second woman as she leans on a table.,Men taking pictures of women at the beach.,contradiction
+test,2863186021.jpg#0r1e,The back of a woman wearing a white jacket with blue jeans walking towards a flock of birds.,There were some birds near a woman.,entailment
+test,2865725777.jpg#3r1e,A man looks intent while sculpting a gargoyle.,The man is working on art.,entailment
+test,2869009633.jpg#3r1c,Women playing volleyball in the sand near the ocean.,Women cooking dinner,contradiction
+test,2869009633.jpg#3r1e,Women playing volleyball in the sand near the ocean.,Women playing a sport,entailment
+test,2869653417.jpg#4r1e,Person in yellow T-shirt is sleeping.,A person is napping.,entailment
+test,2872819024.jpg#2r1e,Cheerleaders standing on a football field.,Cheerleaders are wearing outside.,entailment
+test,2876993733.jpg#0r1c,Two people wearing green raincoats sit in blue bleachers that are otherwise empty.,Three men fall a sleep on green bleachers.,contradiction
+test,2876993733.jpg#0r1n,Two people wearing green raincoats sit in blue bleachers that are otherwise empty.,Two women in raincoat sit on the bleachers an hour before the football game.,neutral
+test,2878041967.jpg#4r1n,Children are petting small turtles in the grass.,The turtles are walking across the grass.,neutral
+test,2888517039.jpg#0r1c,Two men pouring concrete onto another truck.,The men are eating lunch,contradiction
+test,2890113532.jpg#0r1e,A brown dog and a black and white dog are running over grassy hills.,two dogs run,entailment
+test,2890113532.jpg#1r1n,Two dogs are running next to each other on a grassy hill.,The dogs are chasing a squirrel.,neutral
+test,2891451496.jpg#4r1e,A female guitarist is playing on stage.,A woman is playing her instrument.,entailment
+test,2897978268.jpg#2r1e,A man visiting a friend in the hospital.,A man in a hospital receives a visiting friend.,entailment
+test,2900560501.jpg#4r1e,People wearing sombreros drink shots happily.,Fiesta time!,entailment
+test,2914022011.jpg#0r1n,A man in a red shirt and blue jeans is standing in front of a wall with other people's shadows in front of him on the pavement.,A man stands by a wall outside.,entailment
+test,2914936417.jpg#4r1c,A group of brown-haired teenagers doing laundry.,Teens are washing a car.,contradiction
+test,2923891109.jpg#4r1n,the white dog is carrying a ball in its mouth.,The dog is running with a ball in its mouth.,neutral
+test,2924908529.jpg#4r1n,cheerleaders pose for the camera.,They are at a photo shoot.,neutral
+test,2936881937.jpg#4r1c,A man in a black shirt overlooking bike maintenance.,A man destroys a bike.,contradiction
+test,2936881937.jpg#4r1e,A man in a black shirt overlooking bike maintenance.,A man watches bike repairs.,entailment
+test,2939116460.jpg#0r1c,"Blond-haired girl wearing a bicycle helmet, a black t-shirt that reads 'Twizzlers' and a printed dog tag necklace around her neck.",two men pose in suits,contradiction
+test,2939116460.jpg#0r1n,"Blond-haired girl wearing a bicycle helmet, a black t-shirt that reads 'Twizzlers' and a printed dog tag necklace around her neck.",a girl looks stylish for the camera,neutral
+test,294074951.jpg#1r1e,"Three men are doing a musical set with wires and equipment all over the stage, and they are holding unique guitar like instruments.",Three men are doing a musical set wit wires and equipment all over the stage and they are holding unique guitar like instruments,entailment
+test,2940974439.jpg#3r1c,A man holds two children in his arms.,A man with his two children running in front of him.,contradiction
+test,2944675019.jpg#4r1e,A woman in a striped shirt holds an infant.,A woman is dressed.,entailment
+test,2949337912.jpg#3r1e,A person is surfing a big wave.,A person is surfing.,entailment
+test,2957679856.jpg#3r1c,A man in an army uniform speaks into a microphone.,A woman soldier speaks into the microphone.,contradiction
+test,2965734920.jpg#3r1e,A little girl in a colorful shirt holding a flower.,The girl is holding a flower,entailment
+test,2968885599.jpg#2r1c,Sled and dogs headed towards another group of sled dogs with one loose.,The dogs are sitting still.,contradiction
+test,2984961568.jpg#0r1c,Some people are standing on a city sidewalk at night and waiting to get on a double-decker bus.,People wait to get on a boat at night.,contradiction
+test,2987195421.jpg#0r1e,The baseball players near the pitching mound are celebrating as the batsman walks away.,The batsman is on a different team than the others around the pitching mound.,entailment
+test,2993388841.jpg#0r1n,"The basketball player in the blue uniform is guarding the player in the orange uniform, who has the ball.",Two players struggling to get the ball,neutral
+test,300026912.jpg#4r1c,A group of men and boys look upwards at something.,A snake eating a mouse.,contradiction
+test,3005123298.jpg#0r1n,An Obama Biden supporter cheers for the Presidential candidate and his running mate.,A man is at a political rally.,neutral
+test,3013469764.jpg#1r1e,A person is on a four wheeler kicking up a lot of dirt in a dune.,The person is riding a four wheeler.,entailment
+test,3019747321.jpg#2r1c,Men in an office with computers and a projector screen.,The men are at the gym.,contradiction
+test,3020218156.jpg#2r1n,A man standing in front of a building on the phone as two men to the side pain on the side.,a busy man stands with bodyguards,neutral
+test,302740416.jpg#2r1c,A man in a market holding some very large green onions while smoking a cigarette.,A man is holding apples.,contradiction
+test,302740416.jpg#2r1e,A man in a market holding some very large green onions while smoking a cigarette.,A man is holding onions.,entailment
+test,3036596725.jpg#1r1n,A white greyhound dog wearing a muzzle runs around a track.,The dog is racing other dogs.,entailment
+test,3041689520.jpg#3r1c,Naked children play on the muddy riverbank.,THE RIVERBANK STAYED CLEAN EVERYDAY,contradiction
+test,3045118155.jpg#1r1n,A man in a gray shirt and green tie is working with his computer at his office desk.,A man in a gray shirt is working on a novel.,neutral
+test,3053000489.jpg#0r1e,Two women and a little girl are resting with food and drink near a log in a grassy field under flowering trees.,3 girls are resting,entailment
+test,3058627443.jpg#2r1e,A person wearing a red shirt is falling off a white surfboard.,A person is in the water.,entailment
+test,305979887.jpg#0r1n,"A person is sitting on a yellow picnic table with a water bottle, while a baby stroller sits beside her.",a mom takes a break in a park,neutral
+test,306315650.jpg#4r1n,A lady stands outside of a Mexican market.,A girl is enjoying food at a Mexican festival with friends,neutral
+test,3070011270.jpg#1r1c,Dog with black and tan face standing in water looking up at camera.,a dog is sleeping,contradiction
+test,307327914.jpg#2r1e,A closeup of an older man with glasses speaking.,An older man is talking.,entailment
+test,3076054193.jpg#0r1c,The backs of a woman and her dog as they walk away from the camera with the dog on a red leash and her in a green tank top.,A man walks his dog with a black leash.,contradiction
+test,3082234248.jpg#1r1e,"A black man in a knitted, blue cap and green, collared shirt sit next to a stump slicing a coconut.",A man slicing coconut next to a stump.,entailment
+test,3082474922.jpg#1r1c,"Boy wearing red hat, blue jacket pushing plow in snow.",The girl pushes as hard as she can,contradiction
+test,3082474922.jpg#1r1n,"Boy wearing red hat, blue jacket pushing plow in snow.",The boy pushes as hard as he can,neutral
+test,3085590738.jpg#3r1n,A woman is standing at a podium.,The woman is making a speach about agriculture.,neutral
+test,3086526292.jpg#0r1e,You can see the bottom halves of three boys standing on a sidewalk with silly string sprayed everywhere,There are three boys standing.,entailment
+test,309059803.jpg#3r1n,A shirt booth with a man printing a shirt.,The shirt is blue with black lettering.,neutral
+test,3091382602.jpg#1r1e,Two men are making hand gestures and posing for a picture.,Two men are ready to have their picture taken.,entailment
+test,3094752171.jpg#0r1e,Two workers stretch the canvas of the advertising billboard for free range chickens to be appended on a billboard.,Two people work outside.,entailment
+test,3096918227.jpg#0r1n,"A skateboarder is performing a grab trick while hovering above a ramp, which is located within a city.",A skateboarder is at a skatepark with his friends showing off his moves.,neutral
+test,3098336319.jpg#4r1c,A person doing a trick on a snowboard.,A person is ice skating.,contradiction
+test,3106481014.jpg#2r1e,"A lady wearing gloves, and a ponytail cooks something while people stand and watch.",A lady cooks,entailment
+test,3110631369.jpg#4r1e,kids are looking at something on a table.,Some kids are staring at something on the table.,entailment
+test,3110631369.jpg#4r1n,kids are looking at something on a table.,Some kids are looking at an insect on the kitchen table.,neutral
+test,312427606.jpg#1r1n,A young girl with blond-hair eating a peach.,"A young girl eating a peach, while discussing the times of old with her friend.",neutral
+test,312644387.jpg#1r1e,An older white woman makes cupcakes in her kitchen.,An old woman is baking.,entailment
+test,3126773489.jpg#0r1n,"The player in the white dribbles the ball, while the player in the orange tries to stop him.",The player in white and the player in orange are participating in a pick-up game of basketball at the gym.,neutral
+test,3128856481.jpg#3r1n,A white duck expanding its wings in the water.,"The duck is a rare breed, most thought to have been driven into extinction years ago.",contradiction
+test,3128973674.jpg#0r1e,"A lady in the kitchen cleaning her feet on a chopping board with a red towel, or red apron, with her husband standing there.",A lady in the kitchen cleans her feet.,entailment
+test,3131359135.jpg#1r1e,A man in a coat with a briefcase walks down a street next to the bus lane.,A person in a coat with a briefcase walks down a street next to the bus lane.,entailment
+test,3136688093.jpg#2r1e,Fireworks light up the night as a man stands on stage.,The fireworks were shot into the sky.,entailment
+test,3143978284.jpg#0r1c,"Two older women with a baby that has a pacifier in its mouth, the baby wears an orange and brown dress.",The baby is nude.,contradiction
+test,3150742439.jpg#0r1n,A man standing on a street with a suitcase in front of him while another man bends down to look at what is displayed on top of it.,One man shows the ransom money to the other.,neutral
+test,3152291140.jpg#0r1n,Five young blond and light brown-haired girls are sitting on the ground reading books together.,Five girls taking turns reading aloud for a school assignment,neutral
+test,3169184260.jpg#2r1c,Boy in green pajamas play with his toy while his mother sits on the couch and watches him.,A boy in white pajamas plays.,contradiction
+test,3171506111.jpg#0r1e,Two girls in black dresses enjoying a night on the town.,Two girls enjoying a night on the town.,entailment
+test,3171506111.jpg#0r1n,Two girls in black dresses enjoying a night on the town.,Two young girls enjoying a night on the town.,neutral
+test,3177914410.jpg#1r1e,A young boy wearing an orange jacket is sitting on a log in the fall.,A boy is sitting on a log.,entailment
+test,3182509597.jpg#2r1n,Two men riding a boat in clear water on a sunny day.,Two men fish in a boat on a river on a sunny day.,neutral
+test,3188044631.jpg#1r1e,A man and a woman stand in front of a Christmas tree contemplating a single thought.,Two people stand lost in thought in front of a tree.,entailment
+test,3188319076.jpg#1r1e,A black and white dog jumps up and down in the snow.,A dog plays in the winter.,entailment
+test,3190677999.jpg#0r1c,One child in black is walking down a hill covered in white snow while 2 children are on their knees.,The children are eating PB&J sandwiches inside their kitchen.,contradiction
+test,3192645199.jpg#0r1n,A standing man talks to a seated woman while on some sort of vehicle.,Two people are discussing their relationship.,neutral
+test,3195320645.jpg#2r1c,There are two people walking in the sand.,There are five people walking in the sand with drums.,contradiction
+test,320093980.jpg#1r1e,"A woman in a scarf, laughing, being licked by a dog.",A woman and a dog enjoy time together,entailment
+test,3203653158.jpg#0r1c,An African person standing in a wheat field.,A person standing in a corn field.,contradiction
+test,3212388123.jpg#0r1c,"A group of people, including one man carrying a silver tripod, stand in front of a large building featuring numerous columns.",Gerbils chat on Gruveo.,contradiction
+test,3212671393.jpg#1r1n,"A single man in a blue t-shirt, jeans, and a baseball cap works on a roof of a house laying shingles.",The single man was working on his house,neutral
+test,3213517626.jpg#1r1e,A roofer in a gray sweatshirt and orange hat walks on a unfinished roof at a lake-side home.,The roofer is outside working.,entailment
+test,3214333978.jpg#3r1e,Four women are taking a walk down an icy road.,The road is dangerous for the four women to try to walk on because it is covered in ice.,neutral
+test,3216316010.jpg#3r1c,A blond woman in a white shirt demonstrates her talents to a crowd.,A dark haired kid dances for the crowd.,contradiction
+test,3217240672.jpg#4r1c,A tractor decorated as a float for a parade,a lawnmover is being repaired,contradiction
+test,322103537.jpg#0r1e,"A young girl in a pink bikini jumps into the air on a sandy beach by the ocean, as two other children play in the sand.",The girl in wearing a bathing suit.,entailment
+test,322628645.jpg#0r1e,"An Asian woman in a purple shirt preparing a bowl of food for the younger Asian boy sitting near buy, while an Asian man eats a roll and prepares to take some food up with his chopsticks.",A woman is preparing food for a child.,entailment
+test,3228341718.jpg#2r1e,3 ladies with numbers on their shirts running.,There are ladies running.,entailment
+test,3231751379.jpg#2r1c,A hockey player in blue and red guarding the goal.,a soccer player guards the goal,contradiction
+test,323875672.jpg#0r1c,"A young woman cooks a meal in a wok while conversing with another woman, as an illuminated shrine to Mr. T looks on.",Both of these women are clinically mute.,contradiction
+test,3240363291.jpg#1r1c,A group of young adults wait in line outdoors in the daytime.,A woman drives a bulldozer.,contradiction
+test,3240363291.jpg#1r1e,A group of young adults wait in line outdoors in the daytime.,A group of people wait in a line.,entailment
+test,3246016210.jpg#4r1c,One man cutting through ice on a cold day.,The man is running around his house.,contradiction
+test,3247477917.jpg#4r1e,A woman in a blue apron is holding a container of ice cream.,A woman is standing in a kitchen.,neutral
+test,3248676970.jpg#2r1c,A performance group is staged in one collective motion.,The group is separate from one another.,contradiction
+test,32490830.jpg#1r1e,an elderly man in a tie die shirt playing a red according key bored for a boy in blue.,There is a man playing an instrument,entailment
+test,3255732353.jpg#1r1c,Two girls are playing in the snow and throwing snowballs.,The two girls have no arms.,contradiction
+test,3255732353.jpg#1r1n,Two girls are playing in the snow and throwing snowballs.,The snowballs are from fresh snow.,neutral
+test,3258397351.jpg#1r1e,A group of people watching a boy getting interviewed by a man.,A group of people are watching a boy and and interviewer.,entailment
+test,3259160693.jpg#0r1e,The guy in the black jacket is standing on his hand on a checkered rectangle.,A male is engaging in something acrobatic.,entailment
+test,3262801036.jpg#1r1c,"Six rescuers cooperate to place an injured man on a transport device in snowy, mountainous terrain.",six people get ready to eat a seventh who is injured,contradiction
+test,3262845042.jpg#1r1c,An emergency worker directs a man pulling a sled with emergency equipment on a snowy path.,An emergency worker is at the beach.,contradiction
+test,3274758325.jpg#2r1n,Man with an orange bandanna is playing the flute.,Sad Man with an orange bandanna is playing the flute.,neutral
+test,3277824093.jpg#4r1n,A man gets a skateboard up on a big rock.,The skateboarder is near a rock.,entailment
+test,3288928346.jpg#0r1n,"Am man riding a very tall bicycle down the street, past a large brick building.",A clown rides a tall bike in a parade.,neutral
+test,3289817083.jpg#2r1n,A man holding a baby who is petting a pony.,A man and his daughter are petting a pony.,neutral
+test,3289893683.jpg#0r1c,The basketball player in red is challenging the player in white for the ball.,Two teams are competing in hockey.,contradiction
+test,329363857.jpg#0r1c,A man in a black coat and hat and a woman in a blue coat with pink hat snowshoeing on the side of a road with a stoplight in the background.,A man and women are sitting by the fire.,contradiction
+test,3293751136.jpg#4r1c,Two people in coats kiss on the side of a road.,Two married people avoid looking at one another.,contradiction
+test,3294336227.jpg#4r1n,Person in a long red coat walking in front of a building.,A person gets ready to protest near a building.,neutral
+test,3304556387.jpg#4r1e,A man playing fetch with two brown dogs.,A man has two dogs playing.,entailment
+test,3306212559.jpg#1r1e,Four human figures are backlit by a sunset.,A beautiful sunset shows the shapes of four figures silhouetted against it's backdrop,entailment
+test,3307978046.jpg#0r1c,A group of people in red clothing with scooters ride down the hill on rollerblades.,Everyone is wearing green clothing.,contradiction
+test,3308132698.jpg#3r1e,A choir made up of varying ages of people are performing.,The choir is singing.,entailment
+test,3309092684.jpg#1r1c,A smiling woman and man are seated in front of a microphone in a music studio.,The woman is frowning.,contradiction
+test,3309092684.jpg#1r1e,A smiling woman and man are seated in front of a microphone in a music studio.,A woman is smiling.,entailment
+test,331218808.jpg#0r1e,"A tan-skinned man sitting in a chair with a bag under his arm, talking on a white phone.",A man sitting in a chair with a bag under his arm.,entailment
+test,3312455265.jpg#1r1e,A musician playing a guitar and harmonica singing a song with 'Whatever it Takes' written on his guitar.,The musician is singing.,entailment
+test,3324056835.jpg#0r1e,Some dogs are running on a deserted beach.,There are multiple dogs present.,entailment
+test,3329289652.jpg#3r1n,The boys are playing with Legos.,Boys are playing outside.,neutral
+test,3336831820.jpg#1r1c,A group of people are looking at photographs on a wall and speaking to each other.,A group of people are playing baseball.,contradiction
+test,3338217927.jpg#2r1c,A dog jumping for a Frisbee in the snow.,A cat washes his face and whiskers with his front paw.,contradiction
+test,33408768.jpg#0r1e,A man with brown pants and boots moving a tent.,A guy is transporting a tent.,entailment
+test,3341117695.jpg#3r1c,A cyclist dressed in black and white is pointing.,A cyclist dressed in black and white eats cheese.,contradiction
+test,3343900764.jpg#0r1c,A basketball player in a red uniform is trying to make a basket but is being blocked by the opposing team.,The basketball player is stretching on the sidelines.,contradiction
+test,3344411431.jpg#4r1e,Band plays in tight quarters.,The band is playing.,entailment
+test,3344861882.jpg#0r1n,A woman in a red jacket and sunglasses smiles at the camera while another woman unloads skis from a vehicle.,A tall woman in a red jacket and sunglasses smiles at the camera,neutral
+test,3353278454.jpg#2r1c,The people await to cross the street while walking the dog.,people are at home watching tv,contradiction
+test,3354063643.jpg#2r1n,"The dog is in snow, and has a stick in its mouth.",The dog is playing fetch.,neutral
+test,3358682439.jpg#0r1n,a woman in jeans and a woman in shorts are petting a baby kangaroo.,The woman are enjoying a nice date out at the zoo.,neutral
+test,3360178782.jpg#0r1n,A group of consumers walking through a public market to purchase vegetables with the background of the busy store just behind them.,Group of people being filmed purchasing vegetables for a market's advertisement.,neutral
+test,3363342011.jpg#0r1c,A boy stands in the middle of a crowd of teenagers.,A girl stands in the middle of a crowd of teenagers.,contradiction
+test,3364715316.jpg#1r1n,Two women in bathing suits play on the beach.,Two women in bikinis are flirting with guys.,neutral
+test,3364715316.jpg#4r1e,Two women on a beach.,Two women are outdoors.,entailment
+test,336551615.jpg#4r1e,Two hikers are backpacking up a snow slope.,Two people are hiking with backpacks up a snowy slope.,entailment
+test,3365783912.jpg#0r1n,"Two older men in business attire are walking in a city, text graffiti is visible on the sidewalk.",They hope to clean up the street together,neutral
+test,3366571152.jpg#2r1c,A nighttime street scene of a restaurant.,A nighttime scene of an apartment building.,contradiction
+test,3366904106.jpg#0r1n,"A young man in an orange shirt, maneuvers a skateboard at the top of a ramp.",A person rides a skateboard well.,neutral
+test,337378227.jpg#2r1e,A man wearing a brown hoodie is shopping for snacks.,The man is wearing brown.,entailment
+test,3377040300.jpg#2r1c,Two men and two women in jackets walk down a large city street.,People eating lunch together.,contradiction
+test,3378389034.jpg#3r1n,A young child plays on a beach next to an empty chair.,A young child is visiting the beach with his family on their summer vacation.,neutral
+test,3381746410.jpg#3r1e,A father and son are in a field of yellow flowers.,People are surrounded by flowers.,entailment
+test,3381788544.jpg#3r1c,A group of Asian girls are standing together.,There are boys standing together.,contradiction
+test,3385659425.jpg#0r1e,A woman in a white wedding dress is being dressed and fitted by two other women.,A woman is being fitted.,entailment
+test,3385956569.jpg#0r1n,A person in a red and tan coat is snowboarding off a hill of snow.,A girl rides a snowboard.,neutral
+test,3388094307.jpg#3r1c,A woman in a white tennis outfit is jumping up to hit the ball.,women at work,contradiction
+test,3389995545.jpg#0r1c,"Soccer players are playing a night game and the ball is in the air, while the two teams fight for it.",The sun was shining during the soccer match.,contradiction
+test,3394586927.jpg#3r1c,A man on a skateboard on steps in front glass doors of a brick building.,The man with the skateboard is waiting for a plane,neutral
+test,3396251819.jpg#3r1c,A man wearing red sunglasses is carrying two cameras.,The man has blue sunglasses.,contradiction
+test,3396251819.jpg#3r1n,A man wearing red sunglasses is carrying two cameras.,The man likes taking pictures.,neutral
+test,3399906919.jpg#1r1n,A man is throwing a small white ball at some red cups.,The man is outside,neutral
+test,3410215754.jpg#3r1c,Four kids pose on a stage.,Several little people are breaking into a theater.,contradiction
+test,3415695164.jpg#1r1e,Four small children playing in the courtyard of a large building made out of clay or sand.,Four children are outdoors playing.,entailment
+test,3417224762.jpg#3r1n,a male teen is working on a school project.,A 16 year old doing homework.,neutral
+test,3417319108.jpg#4r1c,A woman and a young girl are sitting down and smiling.,The women are standing and frowning.,contradiction
+test,3417662443.jpg#0r1n,A bearded man wears a roughly sewn hooded costume emblazoned with images of Spiderman.,A man dressing for a show,neutral
+test,3417672954.jpg#0r1n,A guy gettin lots of air on a skateboard at a skatepark,A guy riding a skateboard in the rain.,neutral
+test,3418462699.jpg#1r1e,a man wearing a red jacket and camouflage pants is leaning against a giant tree in the snow.,A man leaning on a tree,entailment
+test,3418462699.jpg#3r1c,A man in a red sweatshirt pushes a giant redwood tree in a snowy forest.,A man standing on a boat.,contradiction
+test,3424851862.jpg#3r1c,Three people posing for a camera,Three woman are shopping at the mall.,neutral
+test,3424851862.jpg#3r1n,Three people posing for a camera,The three people are all female.,neutral
+test,3426956912.jpg#2r1c,A blue truck is driving on a desert road carrying several people and lots of assorted cargo.,A motionless truck,contradiction
+test,3427118504.jpg#0r1n,The man in the brown shirt is holding the hand of the long-haired child in front of a painting.,A dad took his child to a museum to see a famous painting.,neutral
+test,3431194126.jpg#0r1c,a couple wearing bright outfits walking hand and hand on a sidewalk.,The couple is naked.,contradiction
+test,3436395540.jpg#2r1e,Three dogs run through the grass while wearing colored shirts.,There are animals outdoors,entailment
+test,3436395540.jpg#2r1n,Three dogs run through the grass while wearing colored shirts.,Three small dogs run through the grass during the day,neutral
+test,3439414478.jpg#4r1n,A dog jumping into the air.,A puppy leaps for a Frisbee.,neutral
+test,3441979462.jpg#0r1c,"A young woman with a black hat and red and black jacket, swings on a red-orange ball attached to a blue rope.","The young woman removes her clothes, 'I came in like wrecking ball!'",contradiction
+test,3446484702.jpg#0r1e,Elderly woman in blue apron balances a basket on her head on a sidewalk while talking to a woman dressed in black.,Elderly woman is balancing something on her head while having a conversation.,entailment
+test,3450776690.jpg#1r1n,A little girl carries a younger girl on the sidewalk.,The girls are sister,neutral
+test,3454315016.jpg#3r1c,The large white bird grazes the water.,The bird is in a tiny cage,contradiction
+test,3456862740.jpg#2r1c,A person in a black and green outfit is riding a bicycle.,a girl runs down the street,contradiction
+test,3456862740.jpg#2r1n,A person in a black and green outfit is riding a bicycle.,a boy rides his bike,neutral
+test,3457604528.jpg#0r1c,A young girl in a red top is running through a grassy area with large buildings in the background.,The girl is driving in the city.,contradiction
+test,3458125058.jpg#0r1e,Several cartoon characters are behind a young girl sitting in a highchair with a bucket and SpongeBob in front of her.,There's a gathering of cartoon characters.,neutral
+test,3458125058.jpg#0r1n,Several cartoon characters are behind a young girl sitting in a highchair with a bucket and SpongeBob in front of her.,One of the cartoon character is upset.,neutral
+test,345852737.jpg#1r1c,A woman in a burgundy coat exits Trader Joe's with a cart full of groceries.,a man walking backwards,contradiction
+test,345852737.jpg#1r1n,A woman in a burgundy coat exits Trader Joe's with a cart full of groceries.,a wife taking groceries home to her family,neutral
+test,3469314129.jpg#3r1n,Two men with tan hats working in a garden.,The men with the tan hats are looking over their winter crops.,neutral
+test,3479423813.jpg#4r1e,A man is steering his ship out at sea.,A man pilots his boat.,entailment
+test,3485240754.jpg#0r1c,A person on blue pants and a white shirt walks away from a dirt circle on multicolored grass.,a person jumps,contradiction
+test,3486831913.jpg#4r1e,A brown dog runs through a grassy field,A brown dog runs outside.,entailment
+test,3490613884.jpg#0r1c,The man in the dark maroon shirt is kicking something.,the dog ate a spoon,contradiction
+test,3493399647.jpg#3r1c,Two adults hold either side of a boat at the edge of the water.,Two people are hiking.,contradiction
+test,3498482871.jpg#0r1n,an african man is being dragged though wet mud by two cows whilst other people watch.,A man is attempting to run away.,neutral
+test,349877184.jpg#4r1e,People standing with their bicycles.,The bicycles are besides the people.,entailment
+test,3503623999.jpg#1r1c,A woman wearing a red hat and red bandanna followed by a man in a red bandanna.,The couple are wearing yellow bandanas.,contradiction
+test,3512747808.jpg#2r1n,Two women sitting at a table with their hands together.,Two women are praying at a table before they eat their lunch.,neutral
+test,3514055630.jpg#1r1c,Boys in what appears to be a library or school room.,Boys are playing outside.,contradiction
+test,3516312179.jpg#3r1n,A girl in a red and white uniform is swinging a bat.,The girl is playing a game at recess.,neutral
+test,3517127930.jpg#4r1c,batter hits a baseball,An umpire signals that the runner sliding into home plate is 'out'.,contradiction
+test,3520050692.jpg#3r1e,A man sits on his throne behind the drums.,A man is behind some drums.,entailment
+test,3523950181.jpg#4r1e,Men play hockey.,Men play,entailment
+test,3532761259.jpg#2r1c,Two women wearing red are smiling at the camera.,With their backs turned to the camera were two women wearing blue dresses,contradiction
+test,3534548254.jpg#4r1e,A girl with a bowing throwing a wet sponge.,The girl is throwing something.,entailment
+test,3534548254.jpg#4r1n,A girl with a bowing throwing a wet sponge.,The girll is playing a game.,neutral
+test,3544803461.jpg#0r1e,A black man in white shorts and a white man in black shorts boxing.,Two men boxing.,entailment
+test,3549277110.jpg#3r1c,two boys reading superhero books,Two boys watching a superhero show.,contradiction
+test,3549997413.jpg#2r1e,A skier goes down a hill with a mountain as a backdrop.,A skier going down a hill.,entailment
+test,3550763985.jpg#0r1e,A skateboarder with a black and white hat at the top of a jump on a snowy day.,A skateboarder is outdoors.,entailment
+test,3551170666.jpg#3r1e,A golden retriever nurses puppies.,Puppies next to their mother,entailment
+test,3557871242.jpg#3r1n,A runner poses for a picture with friends in a parking lot.,The runner just got first place.,neutral
+test,3559425864.jpg#1r1e,Bicyclist ride the course near the ocean as the day comes to an end.,The cyclist was riding near the ocean at sunset.,entailment
+test,356244046.jpg#3r1e,A young boy in green is practicing kicking.,the your boy is excercizing.,entailment
+test,3564907603.jpg#0r1e,"A group of young adults with 'X' on their hands, smiling.",The group of adults is happy.,entailment
+test,3576741633.jpg#3r1n,A young man does tricks on his skateboard.,A guy rolls forward.,neutral
+test,3578318751.jpg#1r1c,Three people are standing on a lit stage while groups of people sitting at tables face them.,There are only two people.,contradiction
+test,3580277210.jpg#4r1c,Two people playing badminton.,Two people playing basketball outside.,contradiction
+test,3587666993.jpg#0r1n,A businessman in a white sweater conducts necessary business in a plaza using a concrete abutment as a work table.,man on lunch break,contradiction
+test,359082432.jpg#2r1e,A lab dog is standing on a fallen tree trunk with a guy in the background.,there is a guy carrying his pet with him near fallen tree,contradiction
+test,3594029059.jpg#0r1c,A black and white bird with a yellow beak is flying.,worm crawling along sidewalk,contradiction
+test,3599568766.jpg#1r1c,A white dog with brown spots running on a dirt path,A black dog walks on a concrete path.,contradiction
+test,3604384157.jpg#0r1e,Two men are wearing caps are looking at the ground with surprised expressions on their faces.,Two men are shocked by what they see.,entailment
+test,3604384157.jpg#0r1n,Two men are wearing caps are looking at the ground with surprised expressions on their faces.,Two men are surprised by the skunk near them.,neutral
+test,3609663465.jpg#0r1c,A man wearing no shirt is lifting a shovel by a wheelbarrow as he works outside.,A woman wearing a snowsuit is skiing.,contradiction
+test,3610460852.jpg#0r1c,A blond woman in a black shirt is standing behind a counter.,The woman is seated on a beach towel.,contradiction
+test,3610460852.jpg#0r1n,A blond woman in a black shirt is standing behind a counter.,The woman has her hair pulled back in a bun.,neutral
+test,3610836768.jpg#4r1c,Villagers pulling in the fish boat.,The villagers are sitting around the camp fire.,contradiction
+test,3613323772.jpg#4r1e,A boy wearing a helmet is jumping his skateboard.,A boy is jumping his skateboard,entailment
+test,3613705104.jpg#2r1e,A man does a skating trick off of graffiti-filled stairs.,A man skates outside.,entailment
+test,3618969705.jpg#2r1c,A group of attentive students are paying attention to a college lecture.,Students are at the park.,contradiction
+test,3620565950.jpg#0r1c,The gentlemen with the red plaid shirt and black pants is speaking to a young lady holding a blue folder.,The gentleman is speaking to an old lady.,contradiction
+test,3621649810.jpg#2r1c,A woman raises her arms as she looks out over the water at the setting sun.,a woman sleeping in front of a fire,contradiction
+test,3621649810.jpg#2r1n,A woman raises her arms as she looks out over the water at the setting sun.,a woman enjoying a florida beacj,neutral
+test,3623650392.jpg#2r1c,a brown dog standing in the middle of a huge field.,A dog is riding in the car.,contradiction
+test,3624771682.jpg#1r1e,Two little girls reading a book at the library.,The girls are in a library.,entailment
+test,3624812489.jpg#2r1c,Three men are looking forward and laughing.,Three men are sleeping,contradiction
+test,3633169600.jpg#0r1e,"A female swimmer wearing a pink costume comes out of the water in a pool, making a splash.",There is a woman swimming.,neutral
+test,3638783842.jpg#2r1n,"Two formally dressed, bald older women",Two bald women with glasses.,neutral
+test,3642570796.jpg#3r1c,A woman walking down a crowded sidewalk talking on her cellphone.,A woman is running on the track.,contradiction
+test,3643684044.jpg#2r1c,The gentleman is speaking while the others are listening.,The man is not talking.,contradiction
+test,3643684616.jpg#0r1e,Women wearing a black top and glasses speaking into a blue tipped microphone with another woman beside her writing.,One woman speaking into a microphone while a second woman writes beside her.,entailment
+test,3653497668.jpg#4r1e,A birthday party for many little people to enjoy.,Children at a birthday party.,neutral
+test,3653497668.jpg#4r1n,A birthday party for many little people to enjoy.,Children enjoying a birthday party.,neutral
+test,3655862352.jpg#0r1n,"Two sweet young girls on ice skates, hands up and holding on to each other get ready to begin their performance on the ice.",The female ice skaters are competing in a tournament.,neutral
+test,3661659196.jpg#3r1c,Two teenage girls conversing next to lockers.,Girls talking next to the toilet.,contradiction
+test,3679341667.jpg#0r1n,"Two people kickboxing, with others spectating.",This is an official boxing match,neutral
+test,3685373706.jpg#2r1e,A shirtless man with red paint on his torso holding a stick.,A man with no shirt holds a stick.,entailment
+test,3691288174.jpg#1r1e,A street performer is entertaining a gathered audience with the help of a young boy.,A street performer and young boy are entertaining passersby.,entailment
+test,369244499.jpg#4r1e,A man playing a piano,The man's hands are on the keys of a piano.,entailment
+test,3695949492.jpg#0r1e,Two identical brown dogs side by side holding something white in both their mouths.,Two twin pups holding onto the same bone.,neutral
+test,3699318394.jpg#3r1n,A man wearing a blue shirt and headphones around his neck raises his arm.,A man is raising his arm to get someones attention.,neutral
+test,3699522388.jpg#2r1c,A person waterskiing in a river with a large wall in the background.,A dog waterskiing in a river with a large wall in the background.,contradiction
+test,3704431444.jpg#2r1e,A dog is running parallel with the ocean waves.,A dog is on the beach.,entailment
+test,371364900.jpg#0r1c,A black and brown dog is jumping on blocks of concrete in the water.,The dog is sleeping.,contradiction
+test,371364900.jpg#0r1n,A black and brown dog is jumping on blocks of concrete in the water.,The dog wants to play.,neutral
+test,3720932219.jpg#0r1c,A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.,A man hits on a woman.,contradiction
+test,3720932219.jpg#0r1e,A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.,A blond speaks with a group of young dark-haired woman students carrying pieces of paper.,entailment
+test,372160542.jpg#0r1n,A man with a gray beard and a little boy are sitting on the floor looking over some papers in a room with a bunk bed.,The man is reading to his grandson.,neutral
+test,3726170067.jpg#1r1e,A balding man with glasses stands in front of a colorful display.,A person is standing upright.,entailment
+test,3732035651.jpg#4r1e,A child looks at a cactus garden.,A human is looking at plants.,entailment
+test,3732035651.jpg#4r1n,A child looks at a cactus garden.,A child in a red shirt is looking at a massive cactus garden in the desert.,neutral
+test,374437961.jpg#3r1e,A drunk looking woman is hugging a drunk looking man.,A drunk looking couple embracing.,entailment
+test,3757332635.jpg#3r1c,Several children are standing on the beach.,The kids are in the back yard.,contradiction
+test,375797597.jpg#0r1c,"A bald, black man wearing safety glasses and a long-sleeved black shirt is using a pick and hammer to sculpt a sizable rock into art.",A bald black man is painting on a canvas with paint on a pick and hammer.,contradiction
+test,3760799822.jpg#0r1n,"Two women, standing at a fence, are each talking on their cellphones, while two men sitting on the opposite side of the fence are having a conversation.",The two men and women are talking to people that they know.,contradiction
+test,3763959012.jpg#1r1n,Two men in hard hats look at a building while on the side of a street.,2 male humans are working construction.,neutral
+test,38110161.jpg#3r1c,Some elderly people are playing instruments in a park.,The old people are sleeping in the living room.,contradiction
+test,38110161.jpg#3r1n,Some elderly people are playing instruments in a park.,The old man is playing the guitar.,neutral
+test,382138122.jpg#1r1n,Two women wearing aprons and hairnets look at each other while they reach into metal canisters.,Two women are running a kitchen.,neutral
+test,3827238558.jpg#0r1n,A woman with a blue jacket around her waist is sitting on the ledge of some stone ruins resting.,A woman sits in front of ancient indian ruins,neutral
+test,3827316480.jpg#0r1n,"One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.",A man watches his daughter leap,neutral
+test,3831031977.jpg#4r1e,A guy and a girl look down a mountain range.,The people look at the mountains.,entailment
+test,3843254402.jpg#0r1c,A man in a white striped shirt and blue jeans using a water hose to spray water on the ground of concrete ruins.Fo.,A man is riding a motorcycle through a grassy field.,contradiction
+test,38476490.jpg#3r1e,Three people sitting on some stairs laughing.,There are three people.,entailment
+test,3856155585.jpg#0r1e,Six older women are standing in a row at a table smiling and looking trough books and other material displayed on the table.,Books are strewn on a table as women look through them.,entailment
+test,3856178809.jpg#2r1e,Nurses in a medical setting conversing over a plastic cup.,The people work in the medical field.,entailment
+test,3856178809.jpg#2r1n,Nurses in a medical setting conversing over a plastic cup.,The nurses are discussing a patient.,neutral
+test,3856967640.jpg#4r1c,Woman smiling while holding a book and yellow paper star.,the woman reading book in the hall,neutral
+test,3859858162.jpg#1r1e,"A person, in a striped blue shirt and pants, is running along.",The person is running,entailment
+test,3861381128.jpg#0r1n,Several members of a community are celebrating with music and costumes during a festival or party.,The people are celebrating New Years Eve.,neutral
+test,3864680925.jpg#4r1n,Two guys in blue shirts talking.,Two men complimenting each other on their blue shirts.,neutral
+test,3867308040.jpg#0r1c,Women sit on a beach as they watch men bring in a fishing net filled with fish in front of them.,Women and men sing indoors.,contradiction
+test,3867308040.jpg#0r1e,Women sit on a beach as they watch men bring in a fishing net filled with fish in front of them.,People are gathered by the water.,entailment
+test,3875226464.jpg#1r1c,A man with a beer in his hand listens to a woman talk.,A woman has a beer.,contradiction
+test,3880770726.jpg#0r1n,"A man who wears glasses, a blue shirt and a Chicago White Sox cap holds a young boy who also wears a blue shirt.",The man the baseball is taking his son to a baseball game today.,neutral
+test,3881645432.jpg#0r1c,An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background.,The employee is swimming in the ocean.,contradiction
+test,3884010975.jpg#3r1n,A young woman in white working in a professional kitchen.,The young woman makes a meal.,neutral
+test,3887487086.jpg#3r1n,A child with wet hair is holding a butterfly decorated beach ball.,The child is at the beach.,neutral
+test,3887721909.jpg#0r1c,"Two ladies in matching dresses and shoes, both wearing straw hats pulled down over their faces, are napping on a bench next to a rolling suitcase.",two ladies jumping for joy,contradiction
+test,3901773161.jpg#3r1c,A woman is in the middle of hitting a tennis ball.,A woman is sleeping.,contradiction
+test,392168458.jpg#0r1e,A boy in a gray and yellow jacket is raising his hand in front of others sitting around him.,A boy is wearing a jacket.,entailment
+test,3927614951.jpg#4r1e,A woman in a red shirt and white skirt playing tennis.,A woman is wearing a shirt.,entailment
+test,394136487.jpg#1r1c,The firefighter has a hose ready to tackle a car fire.,A firefighter rescues a cat from a house fire.,contradiction
+test,3942002204.jpg#3r1n,Two men in conversation while sitting at a bar.,Some people in conversation while sitting at a bar.,entailment
+test,3944497603.jpg#2r1c,A person in orange clothing rests above a metro entrance.,A person is sitting at a baseball game.,contradiction
+test,3954384143.jpg#1r1e,"While two students are jumping, others in a classroom are sitting or standing.",Two students jumping in a class.,entailment
+test,3963683506.jpg#0r1n,"Six males, four with shirts and two without, have taken a break from their construction work on a building.",A construction crew is sitting and standing next to a building.,neutral
+test,3969772063.jpg#1r1c,A man with a beard is playing an acoustic guitar on the street.,A woman flashes bystanders.,contradiction
+test,3969772063.jpg#1r1e,A man with a beard is playing an acoustic guitar on the street.,A man plays guitar outside.,entailment
+test,3973495184.jpg#2r1n,Five women wearing red shirts are leaning against a red car.,The theme of the photo is red.,neutral
+test,3983222282.jpg#1r1e,A wall hung with multicolored crosses is visible behind the group of young men as they converse.,Young men are talking,entailment
+test,399212516.jpg#4r1c,Young children waving American flags for a soldier,Children are burning flags in protest.,contradiction
+test,399212516.jpg#4r1e,Young children waving American flags for a soldier,Children are waving flags.,entailment
+test,4000148666.jpg#0r1c,Young boys in green and blue jerseys kick around a soccer ball while other soccer games take place in the background.,Young boys throwing a baseball at a baseball field.,contradiction
+test,400562847.jpg#4r1c,A dog carries an object in the snow.,A dog is asleep in its dog house.,contradiction
+test,4015350856.jpg#1r1c,Five people standing under a tent-like structure celebrating the 25th Annual Longboard Classic.,There are two people.,contradiction
+test,4015350856.jpg#1r1n,Five people standing under a tent-like structure celebrating the 25th Annual Longboard Classic.,The people are family.,neutral
+test,4032977916.jpg#3r1e,A woman in an office making a phone call,A woman is making a phone call in an office environment.,entailment
+test,4045308081.jpg#0r1e,A child with curly blond-hair looks at another child with long brown hair while sitting on a bench.,Two kids are sitting next to each other.,entailment
+test,405703782.jpg#3r1n,The rhythmic gymnast completes her floor exercise at the competition.,The gymnast completes her intense exercise.,neutral
+test,4060562740.jpg#4r1e,A robed dancer holding fire stick entertains a crowd.,A fire performer performing before a crowd.,entailment
+test,4091782118.jpg#1r1n,A smiling man is holding up a gavel.,The man is a judge.,neutral
+test,4093896865.jpg#0r1n,A man wearing a stocking hat and has a beard is looking at the camera with two women sitting on the couch next to him.,there are people in a house taking pictures,neutral
+test,4105944919.jpg#1r1c,"Two men stand in the road, it almost appears to be some sort of movie set on a sunny day in California.",Everybody is sitting,contradiction
+test,4112704699.jpg#4r1e,a woman walking down the street.,A lady is walking down a street.,entailment
+test,4114589329.jpg#0r1e,A Ford car is making a right turn as 3 males are walking across the street behind the car.,A car making a right turn had three pedestrians cross behind it.,entailment
+test,4122645918.jpg#3r1e,Young children play on scaffolding.,Young people play on scaffolding.,entailment
+test,413737417.jpg#2r1n,A group of people are camping out on some rocks.,People rest while climbing a mountain.,neutral
+test,4138802340.jpg#2r1n,The hockey players and referee are preparing for a face-off.,The players and referee are getting ready to start the match.,neutral
+test,4139373408.jpg#3r1c,Men sitting at a table in a church.,The men pray at the alters.,contradiction
+test,4169592656.jpg#0r1n,"Two beautiful, little girls with dark hair and dark complexions are sitting down eating cupcakes.",Kids eating cupcakes that their mom gave them.,neutral
+test,418112325.jpg#2r1n,Four kids sitting at a table with food on several plates.,Kids eat at a table.,entailment
+test,421648862.jpg#1r1n,A little girl with pointy pigtails is sitting in the sand on the beach.,A young girl enjoys a moment on the beach while she is on vacation.,neutral
+test,421730441.jpg#2r1e,The man in the black hat has his back to a theater sign.,There is a man standing outside of a theater.,entailment
+test,4239856300.jpg#1r1e,"Two children are sitting on a white blanket, while the other child is sitting in the dirt.",two children are together,entailment
+test,424047148.jpg#0r1c,A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror.,The woman is blind.,contradiction
+test,424047148.jpg#0r1e,A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror.,The woman has something on her face.,entailment
+test,425706089.jpg#4r1c,Two men outside of a restaurant.,Two men are eating inside a restaurant.,contradiction
+test,4262149475.jpg#3r1c,An Asian man is praying at a Buddhist temple.,The man is making noise and bothering others.,contradiction
+test,4262149475.jpg#3r1n,An Asian man is praying at a Buddhist temple.,The man has been Buddhist his whole life.,neutral
+test,4262694145.jpg#0r1c,A young woman with brown hair and an elderly man with gray hair and a sweater jump in the air on a snowy hill with snowshoes on their feet.,An old woman and a young man are crossing the street.,contradiction
+test,4264701235.jpg#3r1e,People enjoying food outside of a restaurant.,People eating stuff outdoors.,entailment
+test,4274214534.jpg#4r1n,A woman is walking her dog along a snowy ground.,A woman is trying to get her dog to go to the bathroom after it has freshly snowed.,neutral
+test,4282604922.jpg#1r1e,People standing in front of a gray building with a sign that reads' Tickets Available Here'.,The people are standing outside.,entailment
+test,4294610133.jpg#0r1n,"two men are seen talking, one man wears pink and another is sporting a t-shirt for summer school 60th anniversary.",Two old men talk at a family reunion.,neutral
+test,4315212557.jpg#0r1c,"A boy and a girl sit at a black table, while a second boy sits near them on a windowsill.",There are boys and girls standing next to a table,contradiction
+test,4328466373.jpg#3r1n,Girls giving a presentation for a school class.,The girls are in front of a blackboard in a classroom.,neutral
+test,433471134.jpg#1r1e,A man with two small boys making a purchase from a woman.,The man brings two little boys with him to buy something from a woman.,entailment
+test,433471134.jpg#1r1n,A man with two small boys making a purchase from a woman.,The man with the little boys is buying a gift from the woman's store.,neutral
+test,4335011105.jpg#2r1e,A woman in a blue jacket dragging a child on a sled through the snow.,There is a child on a sled.,entailment
+test,435966316.jpg#1r1c,"Three workers, with life vests and hard hats, on a boat hanging from cables over water.","4 fisherman are hanging over the boat, trying to pet the shark",contradiction
+test,4361879526.jpg#4r1e,Two men climbing on a wooden scaffold.,Two people climbing on a wooden scaffold.,entailment
+test,438639005.jpg#0r1n,A boy in red and a girl pink are walking through a low cut field.,Kids are playing in the field.,neutral
+test,438639005.jpg#3r1e,Two small children walk away in a field.,Two small children walk outdoors.,entailment
+test,4390539398.jpg#2r1c,Three kids perform a skit about camping.,Five adults went camping.,contradiction
+test,4400684369.jpg#1r1e,"A group of three men and two woman sitting at a table that has food, drinks, and a game on it.",some people are sitted,entailment
+test,4421399995.jpg#1r1e,A man in a white and gray shirt looks on as a shirtless man with a mustache cleans fish on a pale green table.,The man watches the other clean a fish.,entailment
+test,4433557295.jpg#1r1c,A man with a striped black and white shirt and a helmet cleans wooden floor while another one helps him on the background.,The man is referring a floor cleaner battle.,contradiction
+test,4433557295.jpg#1r1e,A man with a striped black and white shirt and a helmet cleans wooden floor while another one helps him on the background.,A man is in a building cleaning.,entailment
+test,4436813115.jpg#0r1e,A man wearing noise-canceling headphones and a breathing mask works on a white sculpture.,a man wearing headphones working on a sculpture,entailment
+test,4436813115.jpg#0r1n,A man wearing noise-canceling headphones and a breathing mask works on a white sculpture.,a man wearing headphones working on a sculpture of his friend,neutral
+test,4436813115.jpg#1r1e,A sculptor wearing yellow headphones is cutting stone.,The man is sculpting a piece of art.,entailment
+test,443756591.jpg#2r1e,A boy and girl child swing together on a swing set.,Two children are playing on a swing set.,entailment
+test,443906029.jpg#4r1e,A historic-looking building.,An older building,neutral
+test,4441493820.jpg#4r1e,Man recording a video of a woman.,A woman is being recorded by a man.,entailment
+test,4442309939.jpg#1r1e,Lot of people are gathered in front of a building.,People gather in front of a building.,entailment
+test,4443437862.jpg#1r1e,"A person walks outside carrying a bag, while a young girl in pink walks behind her.",A person carrying a bag with a girl behind her,entailment
+test,4445461480.jpg#3r1e,A bald man is getting out of a small blue car.,The man is bald.,entailment
+test,4447231069.jpg#0r1c,"three teenagers wearing t-shirt run down the beach, with several other people in the background.",two men sit in the water on boards,contradiction
+test,4447231069.jpg#1r1c,A group of men on a beach are chasing another man who is carrying a ball.,The men are at the mal.,contradiction
+test,4447268988.jpg#4r1e,A group of people and a dog sitting on the steps.,A group of people are sitting with a dog.,entailment
+test,444803340.jpg#2r1c,a young couple both wearing white shirts and blue jeans standing in a light misty rain,A couple hang out on the beach.,neutral
+test,4448279884.jpg#3r1n,A crowd gathers and watches a bonfire.,A crowd feels the warmth of a bonfire.,entailment
+test,4448373892.jpg#3r1n,two women in lingerie with green feathers around waist,A pair of strippers do a dance,neutral
+test,4461953198.jpg#3r1e,A road worker is holding a stop sign to direct traffic.,Traffic is being directed by a road worker.,entailment
+test,4467098318.jpg#2r1e,A man in a strange uniform taking a photo of an old-fashioned red sports car.,A person taking a photo.,entailment
+test,4470861434.jpg#3r1e,Two men in punk-style clothing stand in front of a wall.,Two men standing outdoors.,entailment
+test,4477683613.jpg#1r1c,A crowded city street with lots of pedestrians.,There alot of motorcyclists on this road.,neutral
+test,447800028.jpg#3r1e,Dog running with a purple toy in the snowy field.,A dog is running.,entailment
+test,4479482872.jpg#0r1e,A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.,A boy swims.,entailment
+test,4480972884.jpg#4r1n,She is standing outside a building.,A woman is posing for a selfie.,neutral
+test,4483989917.jpg#0r1c,This person is walking down the street and talking on their cellphone on a windy day.,The person is suddenly picked up by a strong gust of wind and slammed into the side of a building.,contradiction
+test,4485090958.jpg#0r1e,A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.,There are several people outside of a building.,entailment
+test,44904567.jpg#1r1c,A man wielding an electric razor is gleefully shaving away another man's hair.,There is only one person present.,contradiction
+test,44904567.jpg#4r1c,A man smiles while he shaves the head of another man.,A man is crying at a co-worker's funeral.,contradiction
+test,4494029358.jpg#0r1e,A lady in pink long-sleeved blouse is holding a pink bag in her lap as she reaches something to the guy next to her.,Lady with matching pink bag and blouse reaches toward man next to her.,entailment
+test,4503700618.jpg#3r1e,A man wearing a black coat is walking.,A man wearing a coat.,entailment
+test,4506403189.jpg#3r1c,A man waiting for the bus in a war torn country.,A man is waiting for a bus on mars.,contradiction
+test,4509404105.jpg#1r1e,A black-haired man is entertaining a crowd with a hula hoop.,A man has black hair.,entailment
+test,4515460.jpg#2r1c,A man in a construction vest is looking at a vehicle.,A man in a sweater vest is looking at a limo.,contradiction
+test,4516347697.jpg#0r1e,"A man wearing a black cap is suspended in the air on a swing, as children are swinging on a swing set.",A man in a black hat is swinging with some children.,entailment
+test,4525101035.jpg#0r1n,A young man in a heavy brown winter coat stands in front of a blue railing with his arms spread.,The railing is in front of a frozen lake.,neutral
+test,4525101035.jpg#3r1e,A black man wearing a down jacket with his arms spread and holding a pink comb.,A man was wearing a jacket while holding a comb.,entailment
+test,4528309462.jpg#4r1n,A woman attends to her laundry in a laundromat.,A woman is folding her pants at the laundromat.,neutral
+test,4529394646.jpg#2r1n,A gymnastics performer is in mid-pose as she completes her jump.,A gymnast is completing her jump in the finals.,neutral
+test,4535433884.jpg#3r1e,A man is doing a task by a body of water on a farm.,The man is doing something by the water.,entailment
+test,4541666784.jpg#4r1c,Tourists waiting outside of a home to visit.,People waiting in line at a fast food restaurant.,contradiction
+test,4545817148.jpg#1r1e,People dressed in traditional Japanese garb walk in a procession through a courtyard paved with paving stones.,People dressed in Japanese clothing walk through a courtyard.,entailment
+test,4546706008.jpg#2r1c,Man and a woman at the side of a table covered in books.,A couple under a table of goldfish.,contradiction
+test,4548948691.jpg#0r1c,A group of people in front of some tan colored tents from the american Parkinsons disease association.,Superman single handedly cures the disease,contradiction
+test,4553395244.jpg#2r1e,Firefighters in full gear are walking up a ladder.,The firefighers are ready to fight a fire.,entailment
+test,4553604007.jpg#0r1c,The blond girl is opening her drink as she speaks to the person with her.,A man is eating dinner at a restaurant.,contradiction
+test,4555587051.jpg#0r1n,"Five People are kneeling between two park cars, and one man is approaching with his arm raised into the air.",A strange ritual is being performed.,neutral
+test,4556897985.jpg#4r1n,People in motion down a city sidewalk.,People are walking to an event.,neutral
+test,4557545329.jpg#0r1e,"A man in a light brownish jacket, orange undershirt, blue jeans, and a black satchel, who has many sticks of cotton candy.",A man is holding fluffy sweets.,entailment
+test,455994083.jpg#2r1n,A man is holding a microphone in front of his mouth.,The man was about to record his music album.,neutral
+test,4563544127.jpg#1r1e,An older man holding a sign for tattoos soliciting business on the street.,The man works with a tattoo business.,entailment
+test,4569102627.jpg#2r1c,Little girl with very curly hair drinking her cup of juice.,A girl with curly hair is taking a big bite from a hamburger.,contradiction
+test,4571889191.jpg#2r1n,A man with a cowboy hat and a gentleman with sunglasses on his head are seated next to each other.,The two friends are reunited after years apart,neutral
+test,4574110851.jpg#3r1c,Two men walking in summer attire.,Two men in snow pants and sweaters are walking.,contradiction
+test,4574110851.jpg#3r1e,Two men walking in summer attire.,Two men are walking.,entailment
+test,4587858056.jpg#1r1n,A woman is applying lip makeup to another woman who seems to have some green in her hair.,The girl has a hot date tonight,neutral
+test,4591228112.jpg#3r1c,An old man looking over a sculpture.,The man is young,contradiction
+test,4591228112.jpg#3r1e,An old man looking over a sculpture.,the man is old,entailment
+test,4594797592.jpg#0r1c,Small girl in a pink dress is playing electronic drum pads with sticks.,the girl is playing cricket,contradiction
+test,4594797592.jpg#0r1e,Small girl in a pink dress is playing electronic drum pads with sticks.,a girl is playing electronic drums,entailment
+test,4600994701.jpg#4r1c,A child is surrounded by a field of sunflowers.,An old person in a field of poppies.,contradiction
+test,4609020271.jpg#3r1c,A kid bored in a train with brown hair and his head lying down.,A child runs and screams violently in around the train.,contradiction
+test,4621699159.jpg#0r1e,Man balding with a mustache and semi beard standing wearing a psychedelic button shirt playing the guitar as he sings.,The man knows how to play the guitar.,entailment
+test,4621699159.jpg#0r1n,Man balding with a mustache and semi beard standing wearing a psychedelic button shirt playing the guitar as he sings.,The man loves to play music for people.,neutral
+test,4622635648.jpg#4r1n,A man holding a briefcase on a subway.,A man is going to work on a subway.,neutral
+test,4626192243.jpg#2r1c,The man in camouflage pants telephones 911 for the man in black sneakers who is lying on the ground having a heart attack.,The sneakers are white.,contradiction
+test,4626192243.jpg#3r1c,A man with a beard is talking on the cellphone and standing next to someone who is lying down on the street.,Two women stand on the sidewalk and hail a cab,contradiction
+test,4626556918.jpg#2r1c,A young man waring black and carrying a skateboard looks at an outdoor skateboard park.,A girl with a ponytail is riding a bike at a park.,contradiction
+test,4630825353.jpg#4r1c,A girl laying on the ground on her cellphone.,a boy on his cellphone standing on ground,contradiction
+test,4631131293.jpg#3r1c,A group of girls in black and white spotted skirts cross a street.,A group of girls are sitting on a bench.,contradiction
+test,4634174359.jpg#0r1n,A man in gray uniform is cutting something on the ground while a man in white uniform is watching him.,The man in the white is the superior of the janitor in gray.,neutral
+test,4634174359.jpg#3r1c,Two men help each other cut a sheet of plastic.,Two friends drink beer.,contradiction
+test,4637466845.jpg#0r1n,A shirtless man with a white hat and no shoes sitting crisscross with his back against the wall holding up a white plastic cup.,A man is waiting for someone,neutral
+test,4639638236.jpg#0r1c,A man wearing a yellow motorcycle jacket on a motorcycle in midair with a man watching in the background,A man sits in the hospital.,contradiction
+test,4640122647.jpg#1r1c,A young woman skateboarding on an outdoor basketball court in front of a mural.,The young woman is riding a unicycle.,contradiction
+test,4640122647.jpg#1r1e,A young woman skateboarding on an outdoor basketball court in front of a mural.,A young woman skateboards on an outdoor basketball court.,entailment
+test,4640122647.jpg#1r1n,A young woman skateboarding on an outdoor basketball court in front of a mural.,The young woman is wearing a helmet.,neutral
+test,4640154368.jpg#1r1n,"A young man is standing near his bike outside a shop called, 'Sara's Old Fashioned Ice Cream.'",The young man is getting ice cream.,neutral
+test,464116251.jpg#3r1c,A dog jumps over a pile of wood.,A dog rests on a pile of wood.,contradiction
+test,464116251.jpg#3r1n,A dog jumps over a pile of wood.,A dog jumps over a pile of wood to chase a rabbit.,neutral
+test,4643839937.jpg#3r1c,A man in a plaid shirt looking through a telescope lens.,the man is wearing a black shirt,contradiction
+test,464542381.jpg#3r1n,People sitting in chairs along a tree-lined sidewalk.,People are watching the flowers blossom,neutral
+test,4646506674.jpg#2r1c,A dark-skinned man wearing a green cap backwards on his head grins in a crowd.,The guy in the green cap just got home.,neutral
+test,4648440874.jpg#0r1n,A painter with a gray t-shirt and tatted arm sketches a mural with extreme precision and focus.,A painter has a tattoo of a dragon on his arm.,neutral
+test,4652933342.jpg#2r1c,a candid photo of a young lady sitting at a restaurant table.,A young woman is sitting on a toilet.,contradiction
+test,4652933342.jpg#2r1e,a candid photo of a young lady sitting at a restaurant table.,A young lady is sitting at a table.,entailment
+test,466176275.jpg#0r1n,"Two dogs, the gray poodle high in the air, play on the grass.",The animals are playing catch.,neutral
+test,4662376933.jpg#4r1n,Two boys run to the entryway of an old building.,Two kids are running after a dog that got away.,neutral
+test,4663171720.jpg#1r1e,A young couple holding hands in the park.,A couple are at the park.,entailment
+test,4673985219.jpg#0r1c,A cobblestone street lined with houses and some pedestrians milling around.,Elephants are smashing the cobblestone street while people are milling around.,contradiction
+test,467420499.jpg#1r1n,Three men in orange suits are doing street repairs at night.,The men are repairing the streets.,entailment
+test,4679648220.jpg#1r1c,"One girl sips a soda while another looks on, standing on a street in front of a bunch of bicycles.",A girl drinks a soda while sleeping,contradiction
+test,4679648220.jpg#1r1e,"One girl sips a soda while another looks on, standing on a street in front of a bunch of bicycles.",A girl drinks a soda on the street in front of people,neutral
+test,4684006367.jpg#1r1e,A man wearing a brightly green camouflage patterned denim jacket and boots walks by a building labeled Lottery Ticket Centre.,A man is near a building labeled Lottery Ticket Centre.,entailment
+test,4685141560.jpg#1r1e,A young female standing on the deck of a boat starring at her cellphone while riding on the water.,A girl checks her phone on a boat.,entailment
+test,4686365380.jpg#3r1n,A group of individuals are sitting together in a room.,The people are celebrating their father's birthday at a local restaurant.,neutral
+test,4692746525.jpg#1r1c,A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.,A man is watching a group of people having a hot dog eating contest.,contradiction
+test,4696008531.jpg#2r1e,The man in the black t-shirt is trying to throw something.,The man is in a black shirt.,entailment
+test,4700563855.jpg#1r1n,Two people are sitting in a chair a lady reading and a man looking to his phone,The people are husband and wife.,neutral
+test,4701188650.jpg#0r1e,A young man waits on a bench with his bag behind a few advertisements in London.,A young man waits outdoors in London on a bench.,neutral
+test,4701188650.jpg#0r1n,A young man waits on a bench with his bag behind a few advertisements in London.,The advertisements behind him are for a food.,neutral
+test,4701188650.jpg#1r1e,Man sitting on bench with suitcase waiting for his source of transportation.,The man is outside.,entailment
+test,4704668708.jpg#0r1e,"A young child joyfully pulls colorful tissue paper from a decorated box, looking for his present.",a child pulls colorful tissue paper from a fancy box,entailment
+test,4715587253.jpg#3r1e,A goofy looking woman is singing on stage.,A woman is singing.,entailment
+test,4718049113.jpg#0r1e,"Two young men climb a tree overlooking a rural setting, with one of them out far on a limb and clutching a white helmet.",Two people are climbing something.,entailment
+test,4718205942.jpg#0r1c,An Asian woman is standing on a path with a basket on her head looking into a mirror she is holding in her hand.,Nobody is standing,contradiction
+test,4720431530.jpg#0r1c,"A group of people, one of which is a woman with a large white and colorful purse, wait to board a large white and blue bus.",A dog is driving the bus.,contradiction
+test,4720431530.jpg#0r1e,"A group of people, one of which is a woman with a large white and colorful purse, wait to board a large white and blue bus.",A group of people wait at a bus stop as a large white and blue bus stops.,entailment
+test,4725662892.jpg#1r1e,Numerous customers browsing for produce in a market.,People are shopping.,entailment
+test,4731413904.jpg#1r1c,Several men at a bar watch a sports game on the television.,The men are at a baseball game.,contradiction
+test,4732721001.jpg#1r1e,A young woman talks on the phone and carries her bags while walking past some hats on display.,A woman walks through a store talking on her phone.,neutral
+test,4736070650.jpg#1r1n,A black man in a blue suit is talking on a cellphone while smoking.,The man is talking to his friend on the phone,neutral
+test,4736181045.jpg#3r1c,A man and a woman jumping with a lake in the background.,They are swimming in the lake.,contradiction
+test,4736181045.jpg#3r1e,A man and a woman jumping with a lake in the background.,There is a man and a woman.,entailment
+test,473988700.jpg#4r1e,A wet dog shaking off excess water in a field.,The water flies off of the dog,entailment
+test,474652272.jpg#3r1n,A young man standing outside a laundromat.,A man is waiting for his clothes to finish at the laundromat.,neutral
+test,4748151833.jpg#2r1c,a group of people celebrate their asian culture.,A group of people sit angrily at a table waiting for food.,contradiction
+test,4748496940.jpg#4r1c,"Two men in polo shirts, reading the paper.",Two men argue with each other.,contradiction
+test,4749087824.jpg#1r1n,A city street corner with two passing bicyclists and several pedestrians.,The traffic is busy.,neutral
+test,47529535.jpg#4r1n,A young boy giving his brother a piggyback ride,a boy is giving his brother a piggyback ride in the park,neutral
+test,4757950870.jpg#0r1e,The woman in the white dress looks very uncomfortable in the busy surroundings.,The dress is white.,entailment
+test,4757950870.jpg#0r1n,The woman in the white dress looks very uncomfortable in the busy surroundings.,The woman is under a lot of stress.,neutral
+test,4761326634.jpg#0r1c,Guy in uniform standing on the side of a boat moving through the water.,A man in a uniform is underground.,contradiction
+test,4761326634.jpg#4r1c,A man standing on a green boat.,The boat is red and white.,contradiction
+test,4762194732.jpg#0r1e,A young boy is taking American flags to place them where they will remind others of the sacrifices made by veterans.,A young boy is honoring fallen veterans.,entailment
+test,476763228.jpg#0r1c,A group of Chinese people sitting and laying down together on what appears to be a front porch.,A group of African American people are eating dinner at KFC.,contradiction
+test,476763228.jpg#0r1e,A group of Chinese people sitting and laying down together on what appears to be a front porch.,A group of Chinese people are hanging out on a porch.,entailment
+test,4770018165.jpg#1r1c,Man in casual dark shirt and pants and hat dances with curly-haired blond woman in short red dress and red high heels,Nobody is dancing.,contradiction
+test,4770018165.jpg#1r1e,Man in casual dark shirt and pants and hat dances with curly-haired blond woman in short red dress and red high heels,Dancing is going on a room.,entailment
+test,4770171876.jpg#0r1c,A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.,The boy is sitting on the school bus on his way home.,contradiction
+test,4771247095.jpg#0r1n,A man in a blue jogging suit is running on the sidewalk in front of a painting.,The man is sweating from his run.,neutral
+test,4777826385.jpg#0r1n,An older man leans against a pedestal outside of an ornate building.,An older man is leaning outside his nursing home,neutral
+test,4783263491.jpg#0r1n,Women in a red hat and beige shoes standing with hands behind her back in front of a cement wall.,A tall person in a hat,neutral
+test,4785056855.jpg#4r1c,A woman is observing pictures on a camera.,A women cradling a baby.,contradiction
+test,4785056855.jpg#4r1n,A woman is observing pictures on a camera.,A women purchasing a new camera from the store.,neutral
+test,4791890474.jpg#3r1n,An old man with a package poses in front of an advertisement.,A man poses in front of an ad for beer.,neutral
+test,4797720700.jpg#0r1c,"A balding, heavyset man and a dog are resting beside an ornate monument featuring a greenish statue of a man and a woman.","The man is canoeing down a slowly-moving river, enjoying the noonday sun.",contradiction
+test,4799796561.jpg#4r1e,A man with a cigarette sits on the stoop.,A man sits and smokes outside.,entailment
+test,4804569802.jpg#0r1c,A newspaper delivery man smiles as he walks down a sidewalk holding his papers on top of his head.,This person's only job is being a welder on an oil rig.,contradiction
+test,480653124.jpg#2r1e,Three girls jumping in front of a house's flower garden.,Three girls are jumping,entailment
+test,4808132639.jpg#1r1e,A man wearing a gray shirt and pink wristband plays the drums.,a man in a gray shirt and pink wristband plays drums,entailment
+test,480845172.jpg#3r1e,A child and a parent or older sibling going for a hike.,Two people are going for a hike.,entailment
+test,4812955659.jpg#1r1e,A man dressed in a red shirt and black tie stands up at a wedding reception to make a speech.,a guy in a red top and tie makes a speech,entailment
+test,4813609768.jpg#2r1c,A woman in a blue striped shirt is talking to someone on the street.,A woman dancing in the street.,contradiction
+test,4814763982.jpg#3r1e,A man with no shirt on is performing with a baton.,A man is doing things with a baton.,entailment
+test,4814925108.jpg#3r1c,A woman taping a paper notice to a board.,A woman tacking a note to a door.,contradiction
+test,4819960206.jpg#0r1e,A young Asian child stands at the top of some steps and does n't seem to notice the person taking their picture.,Someone is taking a picture of a child.,entailment
+test,482098572.jpg#1r1n,This person in a yellow kayak is riding the rapids.,This person is going to the waterfall,neutral
+test,4821810079.jpg#0r1n,A man in a red shirt is walking towards a blue market stall.,The man wants to purchase some produce.,neutral
+test,4823789426.jpg#1r1n,"A group of men in blue shirts, banded hats, and red bandannas stand in a group.",a bunch of guys in colorful clothes are standing together waiting for the bus,neutral
+test,4823906931.jpg#1r1c,Children play in a shallow pool next to a large image of a girl's face.,The children are in a very deep pool.,contradiction
+test,4824252063.jpg#0r1c,A man with a tattoo on his arm staring to the side with vehicles and buildings behind him.,A man with no tattoos is getting a massage.,contradiction
+test,4825459857.jpg#3r1n,A man is pushing many cartons of bread down the street.,A vendor is selling loaves of bread to pedestrians.,neutral
+test,4831412806.jpg#3r1e,Several people wearing green shirts walk on the beach together.,People are walking on the beach.,entailment
+test,4834129500.jpg#4r1n,A man is standing in the doorway of a building.,The man is walking into a room.,neutral
+test,4838047403.jpg#1r1e,A child being watched while getting something out of a tank.,The tank has an opening.,entailment
+test,484093882.jpg#1r1e,Red capped male dressed in white shirt and dark shorts is standing on small green boat located water in tall grassy bank.,A man wears a white shirt.,entailment
+test,4841235184.jpg#1r1n,A woman wearing a yellow tank top and white pants looking into a window on a city street.,A woman wearing a yellow tank top and white pants is looking at her neighbors below her window.,neutral
+test,4842087231.jpg#4r1n,A young lady toying with her watch.,A woman is adjusting the time on her watch.,neutral
+test,484443289.jpg#0r1n,"An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.",An old woman has a light jean jacket.,neutral
+test,484443289.jpg#1r1c,A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.,The man is wearing a blue cap.,contradiction
+test,484443289.jpg#1r1e,A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.,the man is wearing a gray cap.,entailment
+test,4848391416.jpg#4r1e,A man sits writing at a table set up on a sidewalk.,A man sits outside.,entailment
+test,4851552952.jpg#3r1c,A woman is taking a picture of a girl on a scooter.,The girl is on a car.,contradiction
+test,4855663504.jpg#2r1n,A man with an afro and bandanna playing electric guitar.,the guy with the afro is playing on the guitar for his mom,neutral
+test,4855691043.jpg#0r1c,Brown horse standing in the background while man in a white cowboy hat and blue long-sleeve shirt is walking off.,A horse is dead.,contradiction
+test,4864275268.jpg#1r1c,"A man wearing a blue lab coat, safety glasses, and gloves is working at a small machine with a large computer screen.",The man is wearing a baseball uniform.,contradiction
+test,4873132254.jpg#1r1e,"A child is lying on the floor drawing a picture of a girl, with two other children looking on.",A kid draws a picture of a girl,entailment
+test,487487795.jpg#1r1n,A black and brown dog is playing with a brown and white dog.,Two dogs play with a chew toy.,neutral
+test,4876043682.jpg#0r1n,A boy in a yellow t-shirt and pink sweater talks on a cellphone while riding a horse through a crowd of people who are looking on.,A tall person in a shirt,neutral
+test,4911982235.jpg#0r1e,A man in a plaid shirt is walking on a street where there are advertisements in Chinese.,He is outside.,entailment
+test,4913169135.jpg#4r1c,Woman is looking something.,A woman is blind.,contradiction
+test,491321888.jpg#0r1c,A young man dressed in a dark bathing suit exits from a swimming pool while water drips off his head and body.,The man was laying by the pool.,contradiction
+test,4914829251.jpg#0r1e,"A view of bicyclists on a city street, riding in both directions, with red reflective safety cones dividing the two lanes.",People are riding bikes in both directions on a road.,entailment
+test,4917929879.jpg#1r1e,A man in gray and black is playing a black acoustic guitar with a slightly shorter woman who is wearing pink and playing a violin.,a man plays guitar,entailment
+test,4921249499.jpg#0r1c,A man sitting with his head down on his arm and a roll of toilet paper and a cellphone sitting beside him.,A man is running a marathon.,contradiction
+test,4928893732.jpg#0r1c,A man in a green shirt and dark pants and carrying a really big pot turns around to talk to 3 other people.,Nobody has a shirt on,contradiction
+test,4928921729.jpg#0r1e,"Multiple men fill the scene, one in a white button up shirt using his cellphone, the others wearing pink, orange, and green shirts engaged in various activities in the background.",The men are wearing several different coloured shits.,entailment
+test,4931927819.jpg#0r1e,An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas.,An older looking couple are holding hands as the walk past a restaurant outside.,entailment
+test,4933761531.jpg#2r1n,A man is standing outside next to a garbage can.,A young black man stands beside an overfilled garbage can.,neutral
+test,4937201263.jpg#3r1c,A woman in a bathing suit is sitting on a dock over a body of water.,A  woman is swimming in her pool.,contradiction
+test,4937760948.jpg#1r1e,A female in the middle of a vehicle is holding a camera and is pointing it towards the backseat.,A girl is inside a vehicle.,entailment
+test,4941418868.jpg#4r1e,several people are bike riding.,Some people are riding bicycles.,entailment
+test,4944827656.jpg#2r1e,A man sitting and a woman laying in his lap kissing each other.,A man sitting and woman laying in his lap.,entailment
+test,4950889937.jpg#0r1e,"A woman in a gray kimono walks past a black car in the middle of a crowded street full of Japanese signs, with a man in an orange shirt and khaki slacks.",A woman is walking down a busy street.,entailment
+test,4958466857.jpg#1r1n,Two street people and a dog sitting on the ground and one is holding an 'out of luck' sign.,the dog is a chihuahua,neutral
+test,4968714648.jpg#3r1c,an elderly woman walking down the street.,An elderly woman is enjoying coffee at home.,contradiction
+test,4976246643.jpg#1r1c,A picture of an artwork that depicts a man being flown by birds that is in font of a construction area.,The picture is of a man riding on a dinosaur's back.,contradiction
+test,4976649362.jpg#3r1e,Workers wearing orange vests work on fence.,Guys working outside.,neutral
+test,4981892541.jpg#1r1n,A small Asian child rides on the back of a woman who is wearing a hat.,A mother and her child ride home from work.,neutral
+test,5012159302.jpg#2r1c,"The farmers are out working hard on there tractor, they have on their overalls and the machine is almost fixed.",People wearing shorts are standing around doing nothing.,contradiction
+test,5019568325.jpg#1r1e,A singer wearing a leather jacket performs on stage with dramatic lighting behind him.,a singer wearing a jacker performs on stage,entailment
+test,5060860492.jpg#3r1c,An olympian leaps over an obstacle.,An old woman sleeps in the kitchen.,contradiction
+test,509912302.jpg#0r1e,"People are coming down a movable staircase built through a tunnel, which has three of those staircases.",People are descending in a tunnel.,entailment
+test,5104045.jpg#0r1e,Several people are laying on the floor sleeping covered by blankets.,A party has just ended,neutral
+test,5104045.jpg#0r1n,Several people are laying on the floor sleeping covered by blankets.,A group of people rest,entailment
+test,511749704.jpg#3r1n,A boy rides his skateboard at the park.,A sad boy rides his skateboard at the park.,neutral
+test,512031915.jpg#4r1e,An orange on the floor next to a dog.,There's a dog and an orange on the floor.,entailment
+test,512031915.jpg#4r1n,An orange on the floor next to a dog.,The dog is a labrador retriever.,neutral
+test,5126446040.jpg#0r1e,"Three young men in a kitchen standing around a stove, one of them is stirring something in a pot.",Three people are standing inside a house near each other.,entailment
+test,5157924597.jpg#3r1c,A man is performing for a group in front of a white house.,A man performed inside of a gymnasium.,contradiction
+test,516279719.jpg#0r1n,"A group walking in the middle of a walkway with a green divider, and a woman is walking by herself off to the right.",The group is taking a tour.,neutral
+test,5171029614.jpg#1r1e,A man is in front of a dryer in a laundromat with both hands reaching into a bin or basket.,A man reaches into a basket at a laundromat,entailment
+test,5181423725.jpg#3r1n,A young blond boy is eating cake with a spoon.,a little boy is eating cake,entailment
+test,519061891.jpg#2r1c,A small boy wearing a blue shirt plays in the kiddie pool.,Boy playing in the sandbox,contradiction
+test,520341293.jpg#3r1c,The man is sweeping with a red broom.,The man is dancing with a woman,contradiction
+test,521658170.jpg#0r1e,A man in a grassy field throws a stick for a group of three brown dogs.,A man is playing with dogs.,entailment
+test,5218130090.jpg#1r1c,"Woman wearing green pants, blue jacket and sunhat carrying food in baskets that are hung over her shoulder.",They fight over the food they bought,contradiction
+test,5234657740.jpg#2r1c,A young man is playing a blue guitar.,An old man plays the violin to a group of people.,contradiction
+test,524250975.jpg#3r1c,A classroom of mostly women is being shown a presentation.,A group of students are taking naps.,contradiction
+test,5246144625.jpg#0r1c,Three young girls in winter clothing and hats look at disposable cameras they are holding.,The temperature is a scalding 100 degrees fahrenheit.,contradiction
+test,527255763.jpg#3r1n,A young girl poses with a trophy in the park.,A girl poses with her spelling bee trophy.,neutral
+test,5293382329.jpg#0r1e,A man with long hair talking into a microphone as if on a stage.,A man with long hair is acting like he is on a stage and is talking into a microphone.,entailment
+test,533508800.jpg#2r1n,"A person rides up a narrow street on a bike, past a spray-painted sign of a hand giving the peace sign.",A person riding a bike home after work.,neutral
+test,5349069500.jpg#4r1n,Instructor on Basket weaving at fair,A basket weaver teaching a class at the fair.,neutral
+test,535830521.jpg#3r1e,A woman holds a newspaper that says 'Real change'.,a woman holding a newspaper that says 'real change',entailment
+test,5369771639.jpg#1r1c,Two men on opposing teams are playing soccer in a field.,A man crochets.,contradiction
+test,5371247136.jpg#2r1e,A woman and child are on a boat and the woman is looking out into the ocean through a scope.,A lady and a child are on a boat and the lady is looking out into the ocean through a scope.,entailment
+test,5374764034.jpg#1r1e,A young girl wearing a flora shirt is sitting in tub in brown water with the remnants of a snake.,A girl is sitting in a tub with part of a snake.,entailment
+test,5374764034.jpg#1r1n,A young girl wearing a flora shirt is sitting in tub in brown water with the remnants of a snake.,A girl is sitting in dirty water with a snake's skin in her hands,neutral
+test,5403970454.jpg#4r1c,A little girl in a gray jacket is riding her bicycle.,A little girl in a gray jacket is driving a car.,contradiction
+test,5403972062.jpg#4r1n,A schoolgirl is jumping over a low hurdle.,A girl is playing a sport in which she is jumping over a hurdle.,neutral
+test,5504028572.jpg#1r1e,"A young boy sits curiously on a rock near the water, looking at his reflection.",A kid is outside looking into the water.,entailment
+test,5519356488.jpg#4r1n,This is a clown at an elementary school.,The clown is there to entertain.,neutral
+test,554774472.jpg#4r1e,The children play in the pool.,The children are in the water.,entailment
+test,5570254.jpg#0r1c,A news crew in rain jackets standing in front of line of police tape outside of a residence.,"A news crew's van has broken down, so they decide to stay home.",contradiction
+test,5572347874.jpg#2r1e,A man trying his hardest to climb up a rope.,A man is climbing a rope.,entailment
+test,5579811387.jpg#0r1e,A man with a pinstriped shirt and tan slacks adjust his tie while looking at a apple laptop computer.,A man adjusts his tie looking at a laptop,entailment
+test,5603329477.jpg#0r1c,"A man wearing blue pants, a white helmet, and a green-striped shirt is shown on skis in midair, against a blue sky with a single puffy cloud.",The man is sitting down.,contradiction
+test,5614715384.jpg#1r1e,A happy woman quite stands in front of a business that displays a closed sign and looks very animated.,A woman happily stands by a bussiness showing a closed sign and looks very colorful.,entailment
+test,5614715384.jpg#1r1n,A happy woman quite stands in front of a business that displays a closed sign and looks very animated.,A woman stands by a business.,neutral
+test,5615654150.jpg#0r1n,"A young white girl is standing on the street in front of a storefront, dressed up in red with a hoop decorated with card symbols.",The young white girl is standing on a street while it's sunny outside.,neutral
+test,5633423671.jpg#2r1n,A concert with a blue shirted boy in the front and light shining in the back,The moment has it's fan,contradiction
+test,563404108.jpg#4r1c,A large crowd of people talking to each other.,A large crowd of dogs are at the park.,contradiction
+test,5637361857.jpg#4r1e,Painter re-creates old works of art in a museum.,A painter copying masterpieces in a museum.,entailment
+test,5637498751.jpg#2r1n,A police officer standing next his police motorbike holding a yellow safety jacket.,A motorcycle officer getting ready for patrol.,neutral
+test,5637994240.jpg#0r1c,"A young boy plays with the contents of a pantry and a cash register, pretending he runs a grocery store.",A young boy is hitting a pinata.,contradiction
+test,5672704774.jpg#0r1c,"Two girls, one wearing a pink shirt and the other wearing a blue shirt, are standing against a wall.",Two girls playing hopscotch in an open court.,contradiction
+test,5672704774.jpg#0r1n,"Two girls, one wearing a pink shirt and the other wearing a blue shirt, are standing against a wall.",Two girls hiding behind a wall.,neutral
+test,5690859699.jpg#2r1c,A man is riding up an escalator that is carrying shopping carts.,The man is sitting on table not doing anything.,contradiction
+test,571002259.jpg#3r1c,A tree worker with a hard hat is cutting down a branch.,A ballerina is climbing a tree.,contradiction
+test,5721468367.jpg#1r1e,Family sitting down in a field of grass while others walk by.,The family is outside.,entailment
+test,5726809479.jpg#2r1c,A woman is using a small scissors on a large net.,A woman is using tape on a large net.,contradiction
+test,5730564191.jpg#0r1n,"A chef in a kitchen cuts a piece off of a large slab of rotating meat on a stick, probably lamb.",A chef is cooking up a 6-course menu for his close friends.,neutral
+test,5732157460.jpg#0r1n,A group of children looking at the contents of a slide through a microscope displayed on a computer screen.,The kids like science.,neutral
+test,5737435305.jpg#1r1e,"A group stands and watches two men, apparently dressed in some sort of costume, wrestle on the ground.",there are people wrestling,entailment
+test,5745422329.jpg#2r1c,"One man wearing a pink and blue striped shirt, work gloves, and holding a yellow hard hat.",Nobody has a shirt on,contradiction
+test,5749795798.jpg#1r1c,Some men and boys are playing with a Frisbee in a grassy area.,A group of people play football.,contradiction
+test,57691053.jpg#2r1c,A group of people in black outfits drinking beer.,People eat chunks of meat.,contradiction
+test,5769937988.jpg#1r1n,Chefs prepare food on a grill in front of their customers.,The customers are entertained while watching the chefs make the food.,neutral
+test,578873882.jpg#1r1e,"A team of men, three in red shirts and two others in baseball jerseys, re-surface a baseball diamond with specialized tools.",A grounds crew maintain a park.,entailment
+test,5793422010.jpg#1r1n,Four women standing around a yellow table are looking at laptops.,A group of women shopping for a new laptop.,neutral
+test,5793422010.jpg#2r1e,Many women trying out and looking at laptops in a Walmart.,Women are shopping for computers at a large store.,entailment
+test,5794131663.jpg#2r1n,A man swings his tennis racquet as the tennis ball gets closer to him.,A man is about to hit the winning point in a tennis match.,neutral
+test,5840232264.jpg#3r1c,A male with a prosthetic leg diving for a volleyball.,The male is playing soccer.,contradiction
+test,5840232264.jpg#3r1e,A male with a prosthetic leg diving for a volleyball.,The male has at least one prosthetic leg.,entailment
+test,5897488202.jpg#1r1n,"One woman with jeans, gray shirt and sandals; with girl in all pink watching a white ball float in midair.",The woman is contemplating buying a new outfit.,neutral
+test,59032661.jpg#4r1c,People in chairs around a table,The people are climbing a mountain.,contradiction
+test,5924713518.jpg#3r1c,A boy scout with a red cap is looking through a telescope,A boy scout is making a campfire.,contradiction
+test,5995817000.jpg#1r1n,A young girl in a white t-shirt and a blue skirt wearing a light colored hat stands in a river next to a big rock.,The girl is cooling her feet on a hot day.,neutral
+test,6006191679.jpg#0r1e,"A person just about to stand up while water-skiing, while people in the background watch and take photos.",The crowd is admiring the person water-skiing.,entailment
+test,6020763700.jpg#1r1e,One lady is looking at a blue box while the shorter lady is looking at something on her phone at the grocery store.,one lady looks at a box while another looks at her phone,entailment
+test,6042855086.jpg#2r1e,A windsurfer catching air with water streaming off of the board.,A person is windsurfing.,entailment
+test,60617980.jpg#2r1c,A cement worker is working on a new sidewalk outside of a clothing store.,A worker is working in a restuarant.,contradiction
+test,6073765731.jpg#2r1n,"A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.",Two woman are trying to finish orders from a doctor,neutral
+test,6082587848.jpg#3r1c,A woman within an orchestra is playing a violin.,A man is looking in a telescope.,contradiction
+test,6099093979.jpg#3r1c,A woman sits in a market where she sells goods with her dog.,A dog sells a woman a hat.,contradiction
+test,6099093979.jpg#3r1e,A woman sits in a market where she sells goods with her dog.,A saleswoman in a market.,entailment
+test,6140511870.jpg#0r1n,A man wearing a white shirt and blue jeans as well as a mask over his mouth stokes a fire.,A guy in pants and shirt wearing a face mask to breath through fools around with a fire.,neutral
+test,6141144133.jpg#0r1c,A young man wearing goggles is putting some liquid in a beaker while a young girl wearing blue gloves looks down while holding a pen.,A man is lighting a fire under the beaker as part of his demonstration to the girl.,contradiction
+test,614590366.jpg#3r1e,A man playing the guitar while smoking a cigarette.,A man is playing guitar,entailment
+test,6147066205.jpg#0r1n,A sitting man is holding a partially carved stone in front a partially painted wall.,The man is a sculptor.,neutral
+test,6175408029.jpg#4r1e,Cook handling hot tray with food on it.,cook prepares food,entailment
+test,6179361394.jpg#4r1c,oh yea these suckers cant catch me.,Man watching television.,contradiction
+test,6191516871.jpg#0r1e,Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.,A man is wearing something.,entailment
+test,6198563920.jpg#1r1n,Bearded black dressed male performer is displaying his skill by swinging a fire line in each hand in arcs.,A sideshow man in a black costume is performing a trick with fire for the audience.,entailment
+test,6199134497.jpg#4r1n,The football player prepares to kick the ball.,The football player wearing the red jersey with number 87 on it is about to kick the football for the kickoff.,neutral
+test,6201295346.jpg#1r1c,A white man in a blue uniform is pushing away a black man in a red uniform while the two play soccer on a green field.,A woman says Hi to another woman at the grocery store.,contradiction
+test,6209779666.jpg#2r1c,Repairing the roof of a school on the coastline.,A man is washing his hands.,contradiction
+test,6237339784.jpg#4r1c,A child sits in a tree holding a branch.,The adult jumped up onto the tree.,contradiction
+test,6244908705.jpg#0r1c,A man in a yellow shirt and helmet mountain biking down a dusty path.,A woman is jogging down a road.,contradiction
+test,6251875212.jpg#0r1e,"A man on a bike, with the sun beating down in the background, just launched off of a dirt ramp and is coming back down.",An bike rider jumping ramps on a sunny day.,entailment
+test,6273004053.jpg#0r1n,a soccer player wearing a red uniform walks off the field after a game near a parking lot.,A soccer player is walking to his car.,neutral
+test,6273115722.jpg#1r1n,A female camera operator is capturing some off-camera activity.,A lady is spying on somebody else,neutral
+test,6278649113.jpg#2r1e,A woman with a blue shirt and colorful hair has just thrown the bowling ball.,A woman is bowling.,entailment
+test,6293805900.jpg#0r1e,A swimmer is performing the breaststroke in an indoor swimming pool set up for a competition.,A swimmer is swimming,entailment
+test,6295775965.jpg#1r1n,An entertainers reaches out to his audience during a performance.,A man singing to the crowd.,neutral
+test,62964059.jpg#3r1n,A young redheaded woman laughs at something.,A fat redheaded woman laughs at something.,neutral
+test,6314475602.jpg#4r1n,A man wearing a kilt has thrown a large pole.,A man is wearing a skirt.,entailment
+test,6320068122.jpg#0r1n,"Three young men wearing backpacks, shorts, t-shirts, sandals and hats are standing together on a sandy surface with palm trees in the distance.",Three young people are putting on suntan location while standing on the beach together.,neutral
+test,6320815265.jpg#0r1c,"A female runner dressed in blue athletic wear is running in a competition, while spectators line the street.",The streets are empty.,contradiction
+test,6321336904.jpg#0r1c,"3 women run in a marathon with the crowd in the background, one with the label Galina and another the label Inga, and the 3rd running close behind them in blue.",There are no women running.,contradiction
+test,6321336904.jpg#0r1e,"3 women run in a marathon with the crowd in the background, one with the label Galina and another the label Inga, and the 3rd running close behind them in blue.",Three women are running.,entailment
+test,6323932349.jpg#1r1c,A toddler sits on a stone wall surrounded by fallen leaves.,An child is throwing stones at a leaf wall,contradiction
+test,6337406386.jpg#2r1n,"A girl wearing khakis and a red sweatshirt is jumping in the air, while she is in the forest.",The girl is jumping because she is happy.,neutral
+test,6357591843.jpg#0r1c,A Vietnamese woman wearing a gray top carries large clear bags of groceries using a stick to balance everything on her shoulder.,Nobody is carrying anything,contradiction
+test,6366234987.jpg#2r1c,Team member 39 waiting for the puck to come his way.,A man is jogging in the park.,contradiction
+test,6386779555.jpg#2r1c,Young man performing a skateboard trick on a sidewalk in a city.,A young man is on a farm.,contradiction
+test,6417423499.jpg#4r1e,This man is working with an I-pad.,the man has a pc,contradiction
+test,6417423499.jpg#4r1n,This man is working with an I-pad.,the man is typing a paper,neutral
+test,6419839253.jpg#1r1e,Three young men are playing soccer in the beach wearing shorts and beach attire while some people watch,Three young men are playing soccer in the beach wearing shorts,entailment
+test,646453606.jpg#0r1n,"Two young girls, one wearing a pink jacket and the other in a dark-colored jacket, are playing in the snow and having a snowball fight in a clearing outside of a wooded area.",Two girls are playing,entailment
+test,6472693569.jpg#0r1c,On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride,A man is indoors watching someone canoe on television.,contradiction
+test,6490573135.jpg#2r1e,"A photographer is taking photos of a hockey game, but he is protecting himself from harm by wearing a helmet.",A photographer is taking photos of a hockey game,entailment
+test,649596742.jpg#0r1c,A large black and white dog is licking a smaller white and black dog who is growling.,The dog is red,contradiction
+test,661546153.jpg#0r1e,Smilling and laughing baby in a walker with fire engine airplane mobile and other toys on the floor,Many toys strewn about on the floor.,entailment
+test,6716031215.jpg#0r1c,"A female bowler dressed in blue, with another bowler in the background, prepares to throw a ball down the lane.",A woman is alone at a bowling alley,contradiction
+test,674513893.jpg#1r1c,People boating on a lake with the sun through the clouds in the distance.,kids at zoo,contradiction
+test,6753255813.jpg#2r1e,San Fransisco 49ers football field with cheerleaders and a packed stadium.,A popular football team in California has many fans.,neutral
+test,6769024927.jpg#2r1n,A snowboarder with a maroon coat sails through the air.,The snowboarder has never tried this jump before.,neutral
+test,6790355893.jpg#2r1n,A basketball player in white in red goes up for the shot as two defensive men in red jump up to block the shot.,The basketball player on the white team makes the basket.,contradiction
+test,6792342642.jpg#4r1n,little girl posing for a picture.,The child is getting her school pictures taken.,neutral
+test,6848277313.jpg#4r2e,A man is giving a presentation.,a man gives presentation,entailment
+test,6891956806.jpg#0r1n,"The blond young man who had been splattered with paint colors of blue, orange, and green held up his camera to take a picture.",A man covered in paint after a paintball fight takes a photo.,neutral
+test,6923722761.jpg#0r1n,The young man in the plaid shirt is sitting on a chair that is out in the yard.,Someone is sitting outside waiting for a friend to arrive.,neutral
+test,6926014828.jpg#0r1c,Two women are eating lollipops- the blond woman is wearing a button and the one with brown hair and a scarf has her eyes closed.,Two sisters are eating cotton candy.,contradiction
+test,6935146937.jpg#1r1e,A black man in a white uniform makes a spectacular reverse slam dunk to the crowd's amazement.,the man is playing,entailment
+test,6936180661.jpg#4r1n,People trying to get warm.,People are outside on a chilly day.,neutral
+test,6939157103.jpg#4r1e,"Three women sit at a table, taking notes from three identical magazines.",Three women are reading and writing.,entailment
+test,6966309732.jpg#1r1e,"The soccer team, clad in blue for the match, began to counter down the field in front of the defender, clad in red.",The soccer team in blue plays soccer.,entailment
+test,697582336.jpg#3r1n,The German shepherd runs happily in the park.,Dog runs outside with his owner.,neutral
+test,6979303317.jpg#0r1e,"Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.",three men look at the camera,entailment
+test,6981039831.jpg#0r1e,This person looks to be snowboarding on a very small pile of snow on a sunny cold day.,Young snowboarder sizing up their next jump,entailment
+test,69902502.jpg#1r1n,The man is trying to make a pottery that he can market soon.,An old man is making pottery to sell.,entailment
+test,7002845832.jpg#3r1n,There are a group of track runners bracing to take off.,The track runners are all black ethniticity,neutral
+test,7072093225.jpg#0r1n,A man in a button up shirt with a black shirt underneath presents in front of a television.,A man prepares to give a speech for a television audience.,neutral
+test,7072093225.jpg#3r1c,A speaker is talking with a TV in the background.,There is a live bear in the background.,neutral
+test,7094986255.jpg#3r1n,A boy in swimming trunks wades out into the water.,The young swimmer wades out into the water at the start of his team practice.,neutral
+test,7099370205.jpg#1r1c,"Three soccer players, two in orange one in yellow, running for the ball on a soccer field.",The guy chased his dog down the street.,contradiction
+test,7113652429.jpg#0r1n,Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.,the men are musicians,entailment
+test,7123721879.jpg#3r1c,A young white man in running gear is jogging by the water.,A man walks to the store.,contradiction
+test,7148191955.jpg#2r1n,A tall elder man is standing with his hand around another shorter elder man in the middle of the city,they are posing,neutral
+test,7151070637.jpg#2r1e,A group of runners are running towards two identical skyscrapers.,The runners are running towards the large buildings.,entailment
+test,7151070637.jpg#2r1n,A group of runners are running towards two identical skyscrapers.,The runners are competing in a marathon.,neutral
+test,7192379802.jpg#4r1c,Baby in running in over-sized flip-flops.,A young boy is playing with a basketball.,contradiction
+test,7197674214.jpg#0r1c,A soccer player in white kicks a ball as another soccer player lunges towards the ball and a third soccer player in red follows close by.,The three players are chasing after the hockey puck.,contradiction
+test,7236594962.jpg#0r1n,A man with a light blue t-shirt outside in the open wearing red ear protection while firing a gun.,A man is signaling the start of a race.,neutral
+test,7249185350.jpg#4r1c,Various men in wetsuits and goggles are standing.,Men are sleep.,contradiction
+test,728044957.jpg#2r1c,A woman fell in the water after riding a wakeboard.,A woman lays on a pool float.,contradiction
+test,7357649904.jpg#1r1c,A bearded man wearing a blue shirt and white t-shirt is working on a fishing net.,Someone is fixing a lawnmower.,contradiction
+test,7391692544.jpg#0r1n,"A guitarist, a drummer, and another band member are performing on stage with red lights on the background.",A band is playing a concert in a packed stadium.,neutral
+test,7432995570.jpg#0r1c,"A man on a bicycle, wearing cycle gear, riding at a fast past down paved trail surrounded by tree's and grass.",The man is riding on the sidewalk.,neutral
+test,7466310132.jpg#2r1e,A man and woman look through CD's at a street vendor.,A man and women shopping,entailment
+test,7466310132.jpg#2r1n,A man and woman look through CD's at a street vendor.,A man and women taking a break,neutral
+test,7473647124.jpg#3r1n,An older woman with short red-hair is preparing food in a kitchen.,An old woman is making spaghetti.,neutral
+test,751497345.jpg#1r1n,"A man in a blue shirt, blue jeans, and a red apron standing at a grill.",A man in blue jeans cooks hot dogs on the grill.,neutral
+test,7523563426.jpg#0r1n,"Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",Bruce Springsteen is gay,neutral
+test,75718987.jpg#0r1n,"Three females, one a child, one young adult, and one middle-aged at delicatessen.","A grandmother, a mother and child are waiting in line at the deli.",neutral
+test,7578419416.jpg#3r1e,A young man holding a microphone and singing.,A man is performing a song.,entailment
+test,7591663030.jpg#1r1e,A man riding a motorcycle on a dirt road passing several junk or abandoned cars on the side of the road.,A man is riding a motorcyle.,entailment
+test,7591663030.jpg#4r1e,A guy riding a motorcycle near junk cars,A man is riding a motorcycle.,entailment
+test,7610186624.jpg#1r1c,"A woman is sitting outside at a table, using a knife to cut into a sandwich.",A woman is sitting inside.,contradiction
+test,7610186624.jpg#1r1n,"A woman is sitting outside at a table, using a knife to cut into a sandwich.",A woman is sitting outside waiting for her friend.,neutral
+test,7610186624.jpg#3r1e,A woman is cutting into a sandwich while sitting at an outdoor table.,The lady on the table is cutting her sandwhich,entailment
+test,7616038588.jpg#0r1n,"A man in a black hat, standing on the street while playing an electric guitar and singing.",The man has a great singing voice.,neutral
+test,7638344872.jpg#0r1n,Two men are in blue life jackets and sitting on innertubes with 'Crusher' written on them in the middle of a body of water.,The two men are enjoying an afternoon in the water together after a tough workweek.,neutral
+test,7646106950.jpg#1r1n,One young woman in a blue uniform helping another young woman in a blue sweatshirt with a white band around her arm.,A tall person in a uniform,neutral
+test,7664337844.jpg#4r1n,A group of swimmers jump into a pool.,A group of swimmers jump into a pool during a swim meet.,neutral
+test,7677915788.jpg#1r1e,A player on the red soccer team has just scored a goal while the opposing team watches the ball go in.,A soccer player scored a goal.,entailment
+test,7684654986.jpg#3r1n,Five boys in blue shirts drawing at a table.,The boys are working on an art project.,neutral
+test,7690660482.jpg#3r1c,Passengers in a rusty yellow car driving down the street.,People walk through a store.,contradiction
+test,7707787460.jpg#0r1n,Two men are wrestling; one has the maple leaf of the Canadian flag on his uniform.,Two men wrestle in national competition.,neutral
+test,7731253976.jpg#4r1c,"Clowning around in the bathroom, toothpaste makeup!",fooling around in the bedroom,contradiction
+test,7781342152.jpg#3r1c,Swimming in the wide blue ocean.,The ocean swims in the blue wideness.,contradiction
+test,7832183018.jpg#3r1c,The team swiftly moves their traditional boat down the river.,The boat has sunk,contradiction
+test,7883041362.jpg#0r1e,"A young woman wearing jeans, a white t-shirt and a hat, performs a high flying trick on a bicycle at an outdoor bike park.",Young woman performing bike tricks at a bike park.,entailment
+test,790145736.jpg#0r1c,"In an apparent classroom setting, a young man in a blue t-shirt has a book on his knee while a woman dressed in black next to him leans in to point out something in the book.",Both of them are illiterate.,contradiction
+test,7932925328.jpg#0r1n,A ballerina standing on the toes of one food with one arm up in the air and one leg lifted behind her.,The ballerina hates this.,neutral
+test,793558.jpg#0r1e,A young girl with a white long-sleeved shirt on helps a young boy brown long-sleeved shirt on with tying his shoelaces.,A girl helps a boy tie his shoes,entailment
+test,7965514148.jpg#0r1n,"A brown-haired woman in a blue shirt, wearing a bib number from a marathon, holds a gold trophy and poses with a blond woman in a black dress.",A woman just won a 5k race,neutral
+test,7981321611.jpg#0r1e,baseball player dressed in blue with a red helmet at home plate in front of a catcher and umpire swinging a bat,A baseball player is swinging a bat.,entailment
+test,7981322255.jpg#2r1n,A pro-baseball pitcher sends a curve ball to his opponent while many fans relax and enjoy the game.,A pitcher is playing baseball at a stadium,entailment
+test,7986651427.jpg#1r1c,"A crowd of people in a stadium decked out in white, yellow and green cheer and clap for the team below.",the crowd is on planet mars,contradiction
+test,7990171495.jpg#3r1e,A small girl in a green shirt plays on a swing.,girl plays swing,entailment
+test,7995263133.jpg#0r1n,Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.,A young boy is sleeping at a sleep over.,neutral
+test,8008888211.jpg#3r1e,A cheerleader in a tight red and white uniform is passing out white t-shirts at a sporting event.,A cheerleader passes out shirts,entailment
+test,8018744438.jpg#2r1e,An Asian woman in a hat is measuring food from barrels with a ladle into a smaller metal pan.,A woman is handling food containers.,neutral
+test,8137819284.jpg#1r1n,A horse has fallen down on the green grass and the jockey riding on top is trying his hardest to not fall off.,The horse tripped on a rock.,neutral
+test,8159651473.jpg#2r1c,"A female bicyclist wearing black, and having four number 9's printed on her limbs on a bike.",A woman is riding a skateboard.,contradiction
+test,8174939463.jpg#1r1n,Two girls are sitting on a park bench one is looking at her phone and the other is looking on.,The girl is browsing reddit on her phone.,neutral
+test,8179353896.jpg#0r1c,A man in a purple and blue shirt and shorts is getting ready to hit a golf ball.,A man wearing pants is walking toward a golf ball.,contradiction
+test,8179518136.jpg#1r1c,Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an AstroTurf field.,The players are having a party.,contradiction
+test,8180138587.jpg#2r1e,A family with young children sits down outside.,There is a family sitting outside with their children.,entailment
+test,8218190928.jpg#2r1n,A man from one football team trying to dodge a tackle from a player from the opposing football team.,A man tries to tackle a player in a NFL game.,neutral
+test,824123145.jpg#1r1e,Walkers on a concrete boardwalk under a blue sky.,walkers under a blue sky,entailment
+test,824123145.jpg#1r1n,Walkers on a concrete boardwalk under a blue sky.,walkers under a blue sky near the beach,neutral
+test,8378599.jpg#1r1c,A boy in a blue jacket rides a skateboard down the street.,A blue jacketed boy is standing in football field.,contradiction
+test,846070499.jpg#2r1n,A woman wearing a beige sweater and black pants talking to man wearing black pants and top,The man and woman are engaged.,neutral
+test,871290666.jpg#2r1c,A man sits outdoors with some of his belongings.,A man is inside.,contradiction
+test,873862583.jpg#0r1e,Two women are laughing and smiling while they eat a meal together.,Lilly and Sally were laughing while eating lunch.,neutral
+test,8757787.jpg#2r1c,Street vendors preparing and serving grilled food.,A restaurant is preparing and serving grilled food.,contradiction
+test,90123355.jpg#1r1n,In front is a guy singing and playing guitar and a white shirted drummer in the back.,Some people perform at a concert.,neutral
+test,904404695.jpg#0r1c,A man is resting in a small stream with a hat over his head while the little waterfall is pouring in the background.,A man is resting in a hammock,contradiction
+test,930126921.jpg#0r1e,The man white purple and white polka-dotted shirts is eating and looking to his right while the woman behind him has a confused look on her face.,A person is consuming food.,entailment
+test,93270842.jpg#4r1e,A man siting on a bench with a briefcase.,The man is outdoors with his briefcase.,entailment
+test,93311089.jpg#0r1n,"A little boy with a shirt, shorts and socks on, standing on the beach.",A boy is watching the ocean.,neutral
+test,93447586.jpg#4r1c,"A woman doing gymnastics, she is using the balance beam",A woman is napping in the gym.,contradiction
+test,9426826.jpg#1r1c,A girl sits at a table in front of a plate of food.,There is no food on the plate.,contradiction
+test,980090465.jpg#0r1e,There are many people in a large room with a lot of furniture with tags on them.,People are indoors.,entailment

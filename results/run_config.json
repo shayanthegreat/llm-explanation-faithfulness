@@ -1,0 +1,19 @@
+{
+  "allow_cpu_offload": false,
+  "bootstrap_draws": 2000,
+  "gpu_max_memory_gib": [
+    10,
+    12
+  ],
+  "max_new_tokens": 160,
+  "model_id": "Qwen/Qwen3-8B",
+  "model_revision": "b968826d9c46dd6066d109eabc6255188de91218",
+  "n_sources": 1000,
+  "precision": "float16",
+  "require_gpu_sharding": true,
+  "require_manual_audit": true,
+  "required_gpu_count": 2,
+  "root": "/kaggle/working/phi_cct_research",
+  "seed": 1729,
+  "smoke_sources": 3
+}

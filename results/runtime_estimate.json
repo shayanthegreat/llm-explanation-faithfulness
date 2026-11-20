@@ -1,0 +1,8 @@
+{
+  "basis": "measured sequential greedy Qwen3-8B smoke inference; excludes model download, setup, bootstrap and I/O",
+  "estimated_inference_hours": 11.116171312266063,
+  "median_seconds_per_valid_job": 4.904193225999734,
+  "planned_jobs": 8160,
+  "smoke_jobs": 27,
+  "smoke_valid_jobs": 27
+}

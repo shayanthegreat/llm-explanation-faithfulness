@@ -1,0 +1,8 @@
+{
+  "completed_source_examples": 1000,
+  "sampled_source_examples": 1000,
+  "smoke_run_completed": true,
+  "status": "COMPLETE",
+  "valid_deletion_observations": 2265,
+  "valid_insertion_observations": 2874
+}
